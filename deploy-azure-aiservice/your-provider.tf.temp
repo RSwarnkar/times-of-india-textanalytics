@@ -1,0 +1,10 @@
+
+
+
+# Configure the Azure provider
+provider "azurerm" {
+  features {}
+  subscription_id = "Your Sub here"
+  tenant_id       = "tenant id here" # optional if default tenant is used
+  resource_provider_registrations = "none"
+}

@@ -1,3 +1,12 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+.terraform.lock.hcl
+
+# Avoid adding provider.tf files, which may contain sensitive information
+# about the provider and its configuration.
+providers.tf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
