@@ -1,0 +1,45 @@
+{
+    "cms_id": "124147402",
+    "article_link": "https://timesofindia.indiatimes.com/science/nasa-isros-nisar-sends-first-radar-images-of-earths-surface-reveals-exceptional-details-of-land-forests-and-agriculture/articleshow/124147402.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "NASA and ISRO have released the first radar images captured by their joint Earth-observing satellite, NISAR (NASA-ISRO Synthetic Aperture Radar). Launched on July 30, 2025, the satellite carries advanced L-band and S-band radar systems, designed to provide unprecedented insight into Earthâs dynamic surface. The initial images, captured in August, reveal remarkable detail, from dense forests and wetlands to farmland patterns and urban areas, highlighting the potential for monitoring ecosystems, agriculture, and natural disasters. NISARâs success represents a milestone in international collaboration, combining NASA and ISRO expertise to advance science, technology, and global understanding of Earthâs changing environment.NASA-ISRO dual-band radar delivers unmatched precisionThe NISAR satellite is the first to carry both L-band and S-band radars, combining complementary capabilities for high-resolution Earth observation. NASAâs L-band system can penetrate dense forest canopies, measure soil moisture, and detect minute land movements, including ice shifts, landslides, and tectonic activity. ISROâs S-band radar is highly sensitive to small vegetation, making it ideal for tracking crops, grasslands, and subtle ecological changes. Together, the dual-band approach allows NISAR to capture both natural and human-altered landscapes with unparalleled clarity. It provides crucial data for environmental research, agricultural monitoring, and disaster preparedness worldwide.On August 21, NISARâs L-band radar captured Maineâs Mount Desert Island, highlighting forests, water bodies, urban infrastructure, and narrow waterways with exceptional clarity. Magenta areas indicated built environments, while green represented vegetation. Two days later, northeastern North Dakota was imaged, revealing forests, wetlands, and agricultural fields, including circular center-pivot irrigation plots. The images clearly differentiate between cropland, pastures, natural vegetation, and human settlements. This demonstrates how NISARâs radar capabilities can monitor land use, seasonal changes, and ecological health with unprecedented precision.Advancing scientific research and disaster responseThe high-resolution radar data from NISAR enables detailed analysis of Earthâs ecosystems, agricultural productivity, and environmental changes over time. Scientists can now track deforestation, wetland loss, crop growth, and land degradation more accurately than ever before. Additionally, NISAR provides early warning capabilities for natural disasters such as earthquakes, landslides, and flooding. This allows governments and emergency responders to take timely action to protect lives and infrastructure.The NISAR mission represents years of joint technical development and programmatic coordination between NASA and ISRO, spanning spacecraft design, radar engineering, and global ground-station support. Key NASA contributions include the L-band radar, reflector, and communication subsystems, while ISRO provided the S-band radar and spacecraft bus. With science operations scheduled to begin in November 2025, NISAR is expected to deliver continuous, high-quality radar imagery, revolutionizing our understanding of Earthâs land, ecosystems, and agricultural systems.",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/nasa-isros-nisar-sends-first-radar-images-of-earths-surface-reveals-exceptional-details-of-land-forests-and-agriculture/articleshow/124147402.cms",
+        "inLanguage": "en",
+        "headline": "NASA-ISRO's NISAR sends first radar images of Earth's surface; reveals exceptional details of land, forests and agriculture",
+        "keywords": "NASA-ISRO NISAR radar images,land forests agriculture radar,Earth surface details,NASA ISRO collaboration,NASA,NISAR radar satellite,ISRO,nisar",
+        "url": "https://timesofindia.indiatimes.com/science/nasa-isros-nisar-sends-first-radar-images-of-earths-surface-reveals-exceptional-details-of-land-forests-and-agriculture/articleshow/124147402.cms",
+        "datePublished": "2025-09-26T11:20:00+05:30",
+        "dateModified": "2025-09-26T17:57:00+05:30",
+        "description": "Science News: NASA and ISRO's joint NISAR mission, launched in July 2025, has released its first radar images, showcasing unprecedented detail of Earth's surface. T",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124147343,width-1280,height-720,imgsize-161504,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124147343/124147343.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": [
+        "Excellent, it will be of immense help in future.",
+        "India has the largest pool of young talents; the USA, by blocking their entry into his country, will in fact make India more powerful in all the areas of science and technology. Sooner than later, it will see how the ISRO comes in a close second behind NASA.&lt;br/&gt;&lt;br/&gt;Talent is like a riverâ  it will always find new lands to irrigate. If America and Britain close their doors for Indian talents, then along with developing its homeland, it will be welcomed in Russia, Canada, Brazil, and other giants that build even bigger corporations than Google or Microsoft. Language is no barrier anymore. Soon, the same dazzled West that gawked at Chinaâ  s mega-show will be stunned againâ  this time by many more nations overtaking them.",
+        "Tariffs and visa fees are pocket change â   demonetize and digitize, and you snuff out the cartelsâ   cash. Thatâ  s how you build megastructures, not memes."
+    ]
+}

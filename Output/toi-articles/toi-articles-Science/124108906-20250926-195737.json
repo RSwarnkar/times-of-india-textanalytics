@@ -1,0 +1,41 @@
+{
+    "cms_id": "124108906",
+    "article_link": "https://timesofindia.indiatimes.com/science/the-moon-is-rusting-and-earth-might-be-to-blame-scientists-reveal-how/articleshow/124108906.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "The Moon, long thought to be a barren and unchanging celestial body, is now showing a surprising and puzzling phenomenon: rusting. Scientists have recently discovered that oxygen particles from Earth can travel through space and react with iron-rich minerals on the lunar surface, gradually forming haematite, the mineral commonly known as rust. This unexpected finding reveals a previously unrecognised chemical link between Earth and the Moon, showing that our planet has a subtle yet direct influence on its natural satellite. Studying these interactions provides researchers with valuable insights into the Moonâs evolving surface, unique environmental conditions, and complex chemical processes. Over time, these changes turn the Moon into a natural record of Earth-Moon interactions, solar winds, and broader planetary activity in our solar system.Lunar Haematite discovery: How rust forms on the MoonHaematite forms when iron interacts with oxygen, typically requiring some presence of water. On Earth, this process occurs naturally and is commonplace. However, the Moonâs environment is extremely dry, virtually devoid of free oxygen, and exposed to harsh solar radiation, making the presence of haematite particularly puzzling.In 2020, Indiaâs Chandrayaan-1 mission first identified haematite deposits near the lunar poles. The finding suggested that oxygen must have arrived from an external source, prompting scientists to consider Earth as a potential supplier through mechanisms such as the solar wind or Earthâs magnetic field. This discovery challenged the assumption that the Moonâs surface chemistry is isolated and static, revealing it as a dynamic record of interplanetary interactions over time.How Earthâs particles transform the lunar surfaceFor roughly five days each month, Earth aligns between the Sun and the Moon, shielding the Moon from the Sunâs constant stream of charged particles. During this period, the Moon is exposed mainly to âEarth windâ â charged particles, including oxygen, hydrogen, and nitrogen, that escape from Earthâs upper atmosphere and drift through space.When these ions collide with the Moonâs surface, they implant into the upper layers of lunar soil. The oxygen ions, in particular, react with iron-bearing minerals to produce haematite. This natural transfer of particles demonstrates a continuous chemical exchange between Earth and Moon, previously unrecognized by planetary scientists.Laboratory experiments reveal how Earth wind rusts the MoonTo confirm the role of Earth wind in rust formation, Ziliang Jin and his team at Macau University of Science and Technology conducted laboratory experiments. They simulated the Moonâs exposure to Earth wind by accelerating oxygen and hydrogen ions and directing them at single crystals of iron-rich minerals similar to those found on the lunar surface.The experiments produced compelling results. Oxygen ions caused the iron minerals to transform into haematite, while hydrogen ions could partially reverse the reaction, converting haematite back into iron. This provides clear evidence that Earth wind triggers chemical and mineralogical changes on the Moon, supporting the theory that the Moonâs rust originates from Earth.Earth wind and its role in shaping lunar geologyThis discovery has profound implications for our understanding of lunar geology and Earth-Moon interactions. Shuai Li, who led the 2020 Chandrayaan-1 study, praised the experimental design for isolating the factors responsible for haematite formation.Future lunar missions could return samples of lunar haematite to Earth for detailed isotopic analysis. By examining the oxygen within the mineral, scientists could conclusively determine whether it originated from Earth wind, offering direct evidence of Earthâs influence on the Moon. Such findings would not only deepen our understanding of lunar chemistry but also provide insight into how planetary atmospheres can affect neighboring celestial bodies over time.Also Read | NASA Parker Solar Probe sets speed record at 687,000 kilometers per hour during 25th flyby; new insights",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/the-moon-is-rusting-and-earth-might-be-to-blame-scientists-reveal-how/articleshow/124108906.cms",
+        "inLanguage": "en",
+        "headline": "The Moon is rusting and Earth might be to blame; scientists reveal how",
+        "keywords": "Moon rusting,Why is the Moon rusting,Earth causing Moon to rust,Moon rust discovery,Lunar rust explained,Scientists find rust on the Moon,Moon rust Earth connection",
+        "url": "https://timesofindia.indiatimes.com/science/the-moon-is-rusting-and-earth-might-be-to-blame-scientists-reveal-how/articleshow/124108906.cms",
+        "datePublished": "2025-09-25T13:17:00+05:30",
+        "dateModified": "2025-09-26T10:22:00+05:30",
+        "description": "Science News: Scientists have discovered that the Moon is rusting due to oxygen particles originating from Earth. These particles travel through space and interact ",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124109117,width-1280,height-720,imgsize-42164,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124109117/124109117.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": []
+}

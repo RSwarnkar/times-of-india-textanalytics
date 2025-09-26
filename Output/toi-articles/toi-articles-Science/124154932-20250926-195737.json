@@ -1,0 +1,41 @@
+{
+    "cms_id": "124154932",
+    "article_link": "https://timesofindia.indiatimes.com/science/study-reveals-offshore-wind-farm-cables-affect-female-crabs-and-marine-ecosystems/articleshow/124154932.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "Offshore wind farms are widely recognised as a clean energy solution, helping countries meet climate targets and reduce dependence on fossil fuels. However, recent research reveals that the subsea cables connecting turbines to the shore may have unintended ecological effects. A study published in Environmental Science and Technology Letters discovered that female shore crabs respond strongly to the electromagnetic fields (EMFs) produced by these cables. This altered behaviour, including lingering near cables and reduced movement, could disrupt crab migrations, breeding, and egg-laying patterns, potentially affecting food chains and the broader health of coastal marine ecosystems.The unseen effects of offshore wind farm cables on sea creaturesOffshore wind farms are increasingly seen as a crucial solution for generating clean energy and reducing dependence on fossil fuels. While these projects are important for combating climate change, the underwater infrastructure that supports them, especially the subsea cables connecting turbines to the shore. can have significant, yet often overlooked, impacts on marine life. These cables carry electricity across the seabed and emit electromagnetic fields (EMFs), which many marine organisms, including crabs, fish, and turtles, can detect. These fields can influence navigation, foraging behaviour, and migration patterns, which are critical for the survival and reproduction of many species.How shore crab migrations sustain coastal food chainsShore crabs are not only common but play a key role in coastal ecosystems. Each year, millions migrate along coastlines to reproduce, a journey essential for their life cycle. These migrations provide a critical source of food for various predators, including fish, shorebirds, and other marine animals. Any disruption to their movement can have cascading effects on the food chain, potentially impacting both the populations of crabs and the animals that depend on them. Crabs also contribute to the health of the seafloor environment by helping to aerate sediment and recycle nutrients, further highlighting their ecological importance.How cables affect crabs migrationResearch indicates that female crabs react strongly to EMFs from subsea cables, while males show little or no consistent response. Female crabs tend to linger near the cables and move more slowly, which could interfere with their natural migration and breeding routines. This altered behaviour may lead to changes in where females lay eggs, potentially reducing survival rates and decreasing population sizes. Over time, such disruptions could affect the broader ecosystem, since crabs form a critical link in the coastal food web.Although subsea cables occupy only a tiny fraction of the seafloor, their placement is crucial. Even a single cable crossing a crab migration route can act as an invisible barrier, altering movement patterns and potentially influencing breeding success. Small disruptions in key areas may accumulate across multiple sites, leading to larger ecological consequences over time.Broader impacts of cables on marine lifeThe influence of EMFs extends beyond crabs. Many marine species rely on magnetic fields for navigation, including sea turtles, salmon, and certain fish species. Disturbances caused by subsea cables could affect migration routes, feeding behaviour, and reproduction in these animals as well. If multiple species experience disruption, it may create widespread ecological effects, altering predator-prey relationships and ecosystem dynamics. Understanding and addressing these impacts is vital as the offshore wind industry continues to expand worldwide.Smarter planning for offshore energyTo ensure offshore wind energy development does not harm marine ecosystems, careful planning and innovative solutions are essential. Some strategies include:Routing cables away from critical migration paths to avoid interfering with key species.Using shielding or insulation to reduce EMF exposure and its potential effects on sensitive animals.Continuous monitoring of wildlife near cable routes to detect behavioural changes and adjust management practices accordingly.Collaboration between engineers and marine biologists to integrate ecological knowledge into project design, ensuring that energy development and marine conservation go hand in hand.By considering species behaviour, sex-specific responses, and ecosystem connectivity, offshore wind projects can be designed to minimise environmental impacts. This approach helps balance the urgent need for renewable energy with the preservation of biodiversity and ecosystem health.Also read | Artemis II 2026: NASA prepares first crewed mission to circle around the moon in 50 years, scheduled for February",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/study-reveals-offshore-wind-farm-cables-affect-female-crabs-and-marine-ecosystems/articleshow/124154932.cms",
+        "inLanguage": "en",
+        "headline": "Study reveals offshore wind farm cables affect female crabs and marine ecosystems",
+        "keywords": "offshore wind farms,subsea cables,marine ecosystems,female crabs,electromagnetic fields (EMFs)",
+        "url": "https://timesofindia.indiatimes.com/science/study-reveals-offshore-wind-farm-cables-affect-female-crabs-and-marine-ecosystems/articleshow/124154932.cms",
+        "datePublished": "2025-09-26T15:23:00+05:30",
+        "dateModified": "2025-09-26T15:23:00+05:30",
+        "description": "Science News: Research indicates that subsea cables from offshore wind farms, while crucial for clean energy, emit electromagnetic fields affecting marine life. Fem",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124154916,width-1280,height-720,imgsize-71058,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124154916/124154916.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": []
+}

@@ -1,0 +1,41 @@
+{
+    "cms_id": "124099264",
+    "article_link": "https://timesofindia.indiatimes.com/science/nasas-james-webb-telescope-reveals-stunning-details-of-largest-star-formation-in-the-milky-way/articleshow/124099264.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "NASAâs James Webb Space Telescope has unveiled breathtaking new images of Sagittarius B2, the most massive and active star-forming region in our Milky Way galaxy. Using its NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument), Webb captured an extraordinary view of massive stars, glowing clouds of gas, and cosmic dust. Sagittarius B2, located just a few hundred light-years from the galaxyâs central black hole Sagittarius A, is producing half of the galactic centerâs stars despite holding only a fraction of its gas. These observations provide astronomers with unprecedented insight into how stars are born in extreme environments and why Sagittarius B2 is unusually productive.James Webbâs NIRCam reveals hidden young starsWebbâs NIRCam instrument showcased a field filled with stars, clumps of glowing orange clouds, and dense areas of dust where new stars are still forming. These seemingly dark patches are not empty space but dense molecular clouds hiding young stars too faint to shine through. The infrared light captured by NIRCam penetrates these clouds, giving scientists an intimate view of stellar nurseries that were previously invisible.In contrast, Webbâs MIRI instrument exposed the same region in mid-infrared light, revealing glowing cosmic dust heated by young, massive stars. The brightest stars appear as piercing blue points, while the reddish regions, such as Sagittarius B2 North, display remarkable chemical complexity. MIRIâs resolution and sensitivity allowed astronomers to see details never before possible, deepening understanding of the extreme conditions shaping massive stars.The side-by-side images highlight the differences between near-infrared and mid-infrared observations. NIRCam emphasizes colorful stars punctuated by bright gas clouds, while MIRI dims most stars, letting dust and dense molecular regions dominate the view. Together, the images offer a complete portrait of both stars and the material that forms them, creating a powerful tool for unraveling the mysteries of star formation.Why Sagittarius B2 mattersDespite containing just 10 percent of the gas in the galactic center, Sagittarius B2 generates 50 percent of its stars, raising questions about what drives its extraordinary productivity. By studying this region in unprecedented detail, astronomers aim to understand why star formation here is so much more active than in surrounding areas. These insights could reshape theories of how galaxies evolve and how massive stars influence their environments.A step forward in cosmic discoveryFor astronomers, Webbâs revelations mark a leap forward in the study of star formation. As University of Florida researcher Nazar Budaiev explained, Webbâs findings both answer long-standing questions and open new mysteries, continuing humanityâs millennia-old exploration of the cosmos. With its ability to pierce dense clouds and capture faint details, Webb is redefining our understanding of the Milky Way and the origins of stars. These discoveries also serve as a reminder of how much remains unseen in our own galaxy. Each Webb image is not just a picture of the sky, but a window into the hidden processes that shape the universe.",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/nasas-james-webb-telescope-reveals-stunning-details-of-largest-star-formation-in-the-milky-way/articleshow/124099264.cms",
+        "inLanguage": "en",
+        "headline": "NASAâs James Webb Telescope reveals stunning details of largest star formation in the Milky Way",
+        "keywords": "NASA James Webb Telescope,Sagittarius B2,Milky Way galaxy,star nursery,star formation,NASA,webb,University of Florida,james webbs",
+        "url": "https://timesofindia.indiatimes.com/science/nasas-james-webb-telescope-reveals-stunning-details-of-largest-star-formation-in-the-milky-way/articleshow/124099264.cms",
+        "datePublished": "2025-09-25T07:00:00+05:30",
+        "dateModified": "2025-09-26T10:32:00+05:30",
+        "description": "Science News: The James Webb Space Telescope has captured stunning new images of Sagittarius B2, a highly active star-forming region near the Milky Way's center. Ut",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124099285,width-1280,height-720,imgsize-252928,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124099285/124099285.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": []
+}

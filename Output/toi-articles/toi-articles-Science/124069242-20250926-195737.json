@@ -1,0 +1,41 @@
+{
+    "cms_id": "124069242",
+    "article_link": "https://timesofindia.indiatimes.com/science/did-earths-oceans-originate-from-an-ancient-near-earth-asteroid-scientists-find-clues/articleshow/124069242.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "A recent study has uncovered that liquid water once flowed through the near-Earth asteroid Ryugu, overturning long-held beliefs about water activity on asteroids. Researchers analysed tiny rock fragments returned by Japanâs Hayabusa2 spacecraft and found signs of water movement occurring over a billion years after Ryuguâs formation. This discovery challenges the traditional view that asteroid water activity only happened in the earliest solar system stages. Scientists believe that a massive impact may have melted buried ice, allowing liquid water to percolate through the asteroidâs rocks.The findings suggest that carbon-rich asteroids could have preserved water for extended periods, potentially delivering more water to early Earth than previously thought and influencing the development of our planetâs oceans and atmosphere.Asteroids may retain water billions of years after formation, Ryugu revealsTraditionally, scientists believed that asteroids only experienced water-related processes during the earliest stages of the solar system, shortly after their formation. Ryugu, however, tells a different story. The analysis of its samples indicates that fluids moved through the asteroidâs rocks long after its birth, driven by internal heat or radioactive decay. This means that water could persist on some asteroids far longer than previously thought, potentially influencing prebiotic chemistry.Associate Professor Tsuyoshi Iizuka of the University of Tokyo explained, âThe water hung around for a long time and was not exhausted so quickly as previously assumed.â This finding suggests that some asteroids remained active with water for billions of years, reshaping our understanding of asteroid evolution, habitability potential, and solar system history.Isotope analysis uncovers Ryuguâs hidden history of water activityThe core of the research focuses on the isotopes of lutetium (Lu) and hafnium (Hf). Lu-176 decays naturally into Hf-176 over time, and by measuring the ratio of these isotopes, scientists can determine the age and chemical history of rock samples. In Ryuguâs fragments, the amount of Hf-176 was far higher than predicted, implying that liquid water had washed away much of the original lutetium.This discovery was only possible due to the precise geochemical techniques developed to study minuscule fragments of Ryugu, some smaller than a grain of rice. Such analysis allowed researchers to uncover a record of water activity that would otherwise have remained hidden.Massive impact likely triggered long-lasting water flow in RyuguResearchers believe that a significant collision on Ryuguâs parent asteroid fractured the rock and melted buried ice. This impact released liquid water that moved through the asteroidâs interior, reshaping its composition. The same collision may also have contributed to the breakup of Ryuguâs parent body, ultimately forming the asteroid we see today.The presence of ice preserved for over a billion years indicates that carbon-rich asteroids could have been reservoirs of water far longer than previously recognized. This has profound implications for understanding how water was distributed in the early solar system.Asteroids like Ryugu may have played a key role in delivering water to early EarthThe Ryugu findings suggest that asteroids may have delivered more water to early Earth than previously thought. If carbon-rich asteroids retained ice for extended periods, they could have contributed significantly to the planetâs oceans and atmosphere. This adds a new dimension to the hypothesis that waterâand potentially lifeâs building blocksâarrived on Earth through asteroid impacts.Iizuka emphasised, âThis changes how we think about the long-term fate of water in asteroids. They were not just dry rocks; they could have been active reservoirs of water for billions of years.âRyugu, approximately 900 meters wide, is classified as a near-Earth asteroid. It orbits the Sun every 474 days and is considered âpotentially hazardousâ due to its close approach to Earth. The samples returned by Hayabusa2 in 2020 revealed chemical irregularities that indicate historical water flow.Interestingly, Ryugu may share a parent body with asteroid Bennu, visited by NASAâs OSIRIS-REx mission. While Bennu samples have not shown clear evidence of flowing water, the study of Ryugu provides a valuable comparative insight into the evolution of C-type, carbon-rich asteroids.Asteroids as key water carriers to EarthAsteroids have long been thought to play a critical role in delivering water to Earth. The Ryugu discovery suggests that these space rocks may have supplied up to three times more water than previously estimated. This reinforces the idea that early asteroid impacts helped shape Earthâs oceans and potentially created conditions favorable for life.By demonstrating that water persisted on asteroids for billions of years, Ryugu expands our understanding of the solar systemâs evolution and the origin of water on our planet.Also Read | NASA Parker Solar Probe sets speed record at 687,000 kilometers per hour during 25th flyby; new insights",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/did-earths-oceans-originate-from-an-ancient-near-earth-asteroid-scientists-find-clues/articleshow/124069242.cms",
+        "inLanguage": "en",
+        "headline": "Did Earthâs oceans originate from an ancient near-Earth asteroid? Scientists find clues",
+        "keywords": "Earth oceans origin,asteroid Ryugu,early Earth water delivery,water activity on asteroids,carbon-rich asteroids,impact on asteroid water flow,Hayabusa2 mission,space rocks water reservoirs,isotope analysis Ryugu",
+        "url": "https://timesofindia.indiatimes.com/science/did-earths-oceans-originate-from-an-ancient-near-earth-asteroid-scientists-find-clues/articleshow/124069242.cms",
+        "datePublished": "2025-09-23T16:42:00+05:30",
+        "dateModified": "2025-09-24T10:15:00+05:30",
+        "description": "Science News: A new study reveals that asteroid Ryugu once had liquid water. This challenges old beliefs about asteroids. Scientists analysed rock fragments from Ry",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124069522,width-1280,height-720,imgsize-43646,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124069522/124069522.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": []
+}

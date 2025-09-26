@@ -1,0 +1,41 @@
+{
+    "cms_id": "124149376",
+    "article_link": "https://timesofindia.indiatimes.com/science/million-year-old-skull-suggests-humans-emerged-earlier-than-thought-challenging-the-africa-centric-theory-of-evolution/articleshow/124149376.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "A recently analysed skull discovered in Hubei Province, China, has prompted scientists to rethink the timeline of human evolution. Known as Yunxian 2, the fossil was previously classified as Homo erectus, but new digital reconstructions suggest it belongs to Homo longi, or âDragon Man,â a lineage closely related to both Denisovans and Neanderthals. Dated to around one million years ago, the skull indicates that large-brained humans may have emerged far earlier than previously believed, and that human lineages diverged and diversified rapidly across Eurasia. These findings challenge the long-held Africa-centric model of human evolution, suggesting that crucial evolutionary developments occurred outside Africa as well.The million-year-old skull discoveryThe Yunxian 2 skull was found decades ago in Hubei Province but remained largely understudied due to its damaged condition. Using advanced CT scanning and digital modeling, researchers were able to reconstruct its features, revealing anatomical traits distinct from traditional Homo erectus. These characteristics link the skull to the âDragon Manâ lineage, closely related to Denisovans and Neanderthals. Its size, brain capacity, and unique morphology suggest early large-brained humans were already diversifying across Asia, far earlier than previously recognized.Implications for human evolutionAnalysis of the skull suggests that Homo sapiens may have begun evolving as early as one million years ago, potentially 500,000 years earlier than conventional estimates. This challenges the previously accepted timeline of 300,000â200,000 years for the emergence of modern humans. Furthermore, the evidence implies that multiple human lineages, including Homo longi, Denisovans, Neanderthals, and early Homo sapiens, coexisted and possibly interbred across Eurasia. The discovery emphasizes that significant evolutionary steps were not confined to Africa, highlighting Asiaâs important role in human history.Scholarly debate and future researchExperts like Prof. Chris Stringer of Londonâs Natural History Museum note that the findings significantly reshape our understanding of human ancestry but urge caution. Additional fossil evidence and independent verification are required to confirm these conclusions. Nonetheless, the research showcases how modern digital reconstruction tools can refine classifications, correct previous misidentifications, and illuminate the complex patterns of early human evolution.The discovery of Yunxian 2 underscores the possibility of an earlier and more geographically diverse emergence of modern humans than previously thought. By demonstrating that large-brained humans were present in Asia up to a million years ago, it challenges the linear, Africa-focused narrative and opens new avenues for exploring our speciesâ evolution. Scientists are now actively searching for additional fossils across Asia to uncover more pieces of this complex and intertwined human story.",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/million-year-old-skull-suggests-humans-emerged-earlier-than-thought-challenging-the-africa-centric-theory-of-evolution/articleshow/124149376.cms",
+        "inLanguage": "en",
+        "headline": "Million-year-old skull suggests humans emerged earlier than thought, challenging the Africa-centric theory of evolution",
+        "keywords": "human evolution,Homo longi,skull discovery,early humans,Natural History Museum,africa,Eurasia",
+        "url": "https://timesofindia.indiatimes.com/science/million-year-old-skull-suggests-humans-emerged-earlier-than-thought-challenging-the-africa-centric-theory-of-evolution/articleshow/124149376.cms",
+        "datePublished": "2025-09-26T12:18:00+05:30",
+        "dateModified": "2025-09-26T12:18:00+05:30",
+        "description": "Science News: A million-year-old skull, Yunxian 2, discovered in China, challenges the Africa-centric model of human evolution. Reconstructed digitally, it suggests",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124149521,width-1280,height-720,imgsize-88712,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124149521/124149521.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": []
+}

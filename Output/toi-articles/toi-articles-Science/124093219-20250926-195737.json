@@ -1,0 +1,41 @@
+{
+    "cms_id": "124093219",
+    "article_link": "https://timesofindia.indiatimes.com/science/nasa-launches-three-missions-on-falcon-9-to-monitor-space-weather-and-safeguard-astronauts/articleshow/124093219.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "On September 24, 2025, NASA successfully launched three spacecraft aboard a SpaceX Falcon 9 rocket from Kennedy Space Center, aiming to advance understanding of space weather and its effects on Earth and human space exploration. The missions, NASAâs Interstellar Mapping and Acceleration Probe (IMAP), the Carruthers Geocorona Observatory (CGO), and NOAAâs Space Weather Follow-On Lagrange 1 (SWFO-L1), will study solar activity, interstellar particles, and Earthâs outer atmosphere. By monitoring solar storms, charged particles, and coronal mass ejections, these missions provide critical data to safeguard astronauts on future lunar and Martian missions, while protecting satellites, power grids, and communication networks on Earth. The combined launch highlights NASAâs commitment to scientific innovation and planetary safety.NASAâs primary missions: IMAP and CGOIMAP: The Interstellar Mapping and Acceleration Probe, NASAâs primary mission costing approximately $600 million, will study solar wind, interstellar dust, and the heliosphere, the Sunâs magnetic bubble surrounding the solar system. Equipped with ten instruments, IMAP will track how charged particles are accelerated in space and provide radiation warnings crucial for astronaut safety during future missions to the Moon and Mars. The mission will also enhance understanding of space weather effects across the solar system.Carruthers Geocorona Observatory: This smaller NASA satellite, named after scientist George Carruthers, will investigate Earthâs exosphere, the planetâs outermost atmospheric layer. By imaging ultraviolet light from the geocorona, CGO will help scientists understand how space weather impacts Earthâs atmosphere and satellites in near-Earth orbit.NOAAâs SWFO-L1: real-time space weather monitoringThe Space Weather Follow-On Lagrange 1 spacecraft will deliver real-time monitoring and early warning for solar storms. Positioned at the Sun-Earth Lagrange Point 1, about 1.5 million km from Earth, it provides an uninterrupted view of solar activity. Equipped with a coronagraph, SWFO-L1 will image coronal mass ejections and help protect Earth-based technologies from space weather disruptions.Technical and operational detailsAll three spacecraft were launched together to efficiently reach the Sun-Earth Lagrange Point 1 (L1), a strategic vantage point for observing solar phenomena without Earth interference. The journey to L1 is expected to take approximately four months. NASA leveraged the Falcon 9âs spare capacity to combine the missions into a single launch, demonstrating cost-effectiveness and operational efficiency. Data from the missions will improve space weather forecasting, which is critical for protecting satellites, power infrastructure, and astronauts venturing beyond low Earth orbit.Importance of space weather monitoringSolar storms, caused by solar flares and coronal mass ejections, pose serious risks to both space and Earth-based assets. They can disrupt GPS, communication systems, and power grids, while exposing astronauts to high radiation levels. By providing timely warnings and detailed mapping of charged particles in the solar system, these missions aim to enhance preparedness, safeguard technology, and support human exploration of the Moon and Mars.This integrated trio of missions marks a significant advancement in space weather research. The data collected over the coming decades is expected to yield critical insights into the Sun-Earth relationship, heliospheric dynamics, and planetary protection. With NASAâs Artemis program and other ambitious space initiatives on the horizon, these missions provide essential knowledge to ensure the safety and success of future space exploration. Together, IMAP, CGO, and SWFO-L1 represent one of NASAâs most comprehensive efforts yet to study the Sunâs influence on our planet. Their success will be vital in shaping the future of deep-space exploration and safeguarding human presence beyond Earth.",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/nasa-launches-three-missions-on-falcon-9-to-monitor-space-weather-and-safeguard-astronauts/articleshow/124093219.cms",
+        "inLanguage": "en",
+        "headline": "NASA launches three missions on Falcon 9 to monitor space weather and safeguard astronauts",
+        "keywords": "NASA missions,space weather monitoring,solar storms,astronaut safety,interstellar mapping,space exploration,NASA",
+        "url": "https://timesofindia.indiatimes.com/science/nasa-launches-three-missions-on-falcon-9-to-monitor-space-weather-and-safeguard-astronauts/articleshow/124093219.cms",
+        "datePublished": "2025-09-24T18:36:00+05:30",
+        "dateModified": "2025-09-25T09:43:00+05:30",
+        "description": "Science News: NASA launched three spacecraft on September 24, 2025, aboard a SpaceX Falcon 9 to study space weather. The IMAP, CGO, and SWFO-L1 missions will monito",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124093287,width-1280,height-720,imgsize-28042,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124093287/124093287.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": []
+}

@@ -1,0 +1,715 @@
+[
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/nasa-announces-all-american-class-of-10-astronauts-for-moon-and-mars-mission-women-outnumber-men-for-the-first-time/articleshow/124065263.cms",
+        "article_headline": "NASA announces all-American class of 10 astronauts for moon and Mars mission; women outnumber men for the first time",
+        "article_body": "NASA on Monday unveiled its newest class of astronaut candidates at Johnson Space Center in Houston, selecting 10 individuals from a competitive pool of 8,000 applicants. This group, comprising six women and four men, marks the first time women outnumber men in a NASA astronaut class. Acting NASA Administrator Sean Duffy described them as Americas best and brightest, emphasizing the critical role they will play in the agencys ambitious plans, including returning humans to the moon and preparing for an unprecedented crewed mission to Mars. The selection reflects NASAs focus on diversity, expertise, and preparing the next generation of space explorers.NASA astronaut class of 2025: The new inducteesBen BaileyBen Bailey, 38, is a mechanical engineer and chief warrant officer 3 in the U.S. Army from Charlottesville, Virginia. He holds a bachelor's in mechanical engineering from the University of Virginia and is completing a master's in systems engineering. Bailey is a graduate of the U.S. Naval Test Pilot School with over 2,000 flight hours across 30+ rotary and fixed-wing aircraft, specializing in developmental testing of Army helicopters like the Black Hawk.Lauren EdgarLauren Edgar, 40, is a geologist from Sammamish, Washington, with a bachelor's degree from Dartmouth and a master's and PhD from Caltech. She contributed as deputy principal investigator on NASAs Artemis III geology team, defining lunar science objectives. Edgar has 17+ years supporting Mars rover missions and worked for the U.S. Geological Survey before selection.Adam FuhrmannAdam Fuhrmann, 35, is an aerospace engineer and major in the U.S. Air Force from Leesburg, Virginia. He is a graduate of the U.S. Air Force Test Pilot School and has extensive flying experience testing cutting-edge military aircraft. Fuhrmanns career focuses on flight test engineering and evaluation of aircraft performance and safety.Cameron JonesCameron Jones, 35, is an aerospace engineer and weapons officer in the Air Force from Savanna, Illinois. He is a test pilot with multiple combat deployments and experience operating advanced military aircraft systems. Jones combines operational expertise with aerospace technical knowledge, preparing for complex space missions.Yuri KuboYuri Kubo, 40, is an electrical and computer engineer from Columbus, Indiana, with a background at NASA as a launch director and engineering executive. He oversaw spacecraft launches and operational safety, bringing critical mission management experience. Kubos expertise spans aerospace engineering, launch operations, and leadership in high-stakes environments.Rebecca LawlerRebecca Lawler, 38, from Little Elm, Texas, is a Navy test pilot and former NOAA hurricane hunter. She flew specialized aircraft into hurricanes to collect vital meteorological data and later supported naval aviation testing and evaluation. Lawler combines high-risk flight experience with scientific support roles critical to aerospace exploration.Imelda MullerImelda Muller, 34, from Copake Falls, New York, is an anesthesiologist and former Navy undersea medical officer. She earned degrees in behavioral neuroscience and medicine and provided medical care during operational Navy diving missions. Muller brings medical expertise essential for astronaut health and safety during extended spaceflights.Erin OvercashErin Overcash, 34, is a Navy lieutenant commander and test pilot from Goshen, Kentucky. She earned aerospace engineering and bioastronautics degrees and is qualified in F/A-18 Super Hornet fighter jets. Overcash has logged more than 1,300 flight hours with multiple carrier-arrested landings and trained as an Olympic-level rugby athlete.Katherine SpiesKatherine Spies, 43, from San Diego, California, is a former Marine Corps attack helicopter pilot and experimental test pilot. She holds degrees in chemical and design engineering and served as a flight test director at Gulfstream Aerospace. Spies combines deep piloting experience with advanced engineering leadership.Anna MenonAnna Menon, 39, from Houston, Texas, is a biomedical engineer who previously worked at SpaceX. She flew as a mission specialist and medical officer on the SpaceX Polaris Dawn mission in 2024, setting a new female altitude record. Menon brings firsthand spaceflight experience and expertise in biomedical systems critical to astronaut health.Historic milestones and unique achievements of the latest announcementThis astronaut class is notable for several reasons. Menon becomes the first person in NASAs astronaut corps with prior orbital experience, having flown aboard SpaceXs Polaris Dawn mission last year. She will also join her husband, Anil Menon, a former SpaceX employee selected in the 2021 astronaut class. This selection marks the first time women outnumber men in a NASA astronaut class, highlighting the agencys push for gender diversity in space exploration.The 10 astronauts will undergo two years of intensive training, including geology, water survival, space health, and high-performance jet exercises. Training prepares them for assignments on the International Space Station (ISS), as well as future Artemis missions to the moon and potential crewed missions to Mars. While NASA is winding down ISS operations by the early 2030s, lessons learned aboard the station will serve as preparation for deeper space exploration.The path to the moon and MarsNASA has already selected experienced astronauts for upcoming Artemis missions, including Artemis II, which will orbit the moon next year. The newly selected class could become eligible for later Artemis flights, including lunar landings and possibly missions to Mars, where no human has yet traveled. These astronauts represent the next generation of explorers who will carry forward NASAs goals of long-term lunar presence and interplanetary exploration.",
+        "date_published": "2025-09-23T13:26:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "Johnson Space Center",
+            "newest class",
+            "astronaut candidates",
+            "NASA",
+            "Monday",
+            "Houston"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NASA",
+                "entity_type": "Organization"
+            },
+            {
+                "entity_name": "Monday",
+                "entity_type": "DateTime"
+            },
+            {
+                "entity_name": "astron",
+                "entity_type": "Product"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "NASA",
+                "entity_url": "https://en.wikipedia.org/wiki/NASA"
+            },
+            {
+                "entity_name": "Monday",
+                "entity_url": "https://en.wikipedia.org/wiki/Monday"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/nasa-parker-solar-probe-sets-speed-record-at-687000-kilometers-per-hour-during-25th-flyby-new-insights/articleshow/124065406.cms",
+        "article_headline": "NASA Parker Solar Probe sets speed record at 687,000 kilometers per hour during 25th flyby; new insights",
+        "article_body": "NASAs Parker Solar Probe has made headlines again by successfully completing an autonomous close approach to the Sun and confirming that all its systems are operating normally. On September 18, 2025, the spacecraft transmitted a status signal to flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where it was designed, built, and continues to be managed. This achievement marks another milestone in Parkers ongoing mission to explore the Suns atmosphere, or corona, and study solar activity in unprecedented detail. By flying closer to the Sun than any previous spacecraft, Parker Solar Probe provides critical data on solar wind, flares, and space weather, advancing humanitys understanding of phenomena that impact both space and Earth.NASAs Parker Solar Probe hits record-breaking speed reaching 687,000 km/hDuring its recent solar encounter from September 10 to 20, Parker Solar Probe matched its record-setting speed of 687,000 kilometers per hour (430,000 miles per hour). This extreme velocity, achieved during close approaches to the Sun, had previously been reached on December 24, 2024; March 22, 2025; and June 19, 2025. The spacecraft remains in a highly elliptical orbit around the Sun, continuously conducting observations that scientists hope will shed new light on solar phenomena and space weather. NASA is currently reviewing the missions next milestones, extending beyond 2026.Parker Solar Probes fourth flyby reveals key solar insightParker Solar Probes latest flyby marked its fourth close approach to the Suns outer atmosphere, or corona. During this encounter, the spacecrafts four scientific instrument packages collected detailed data on solar wind, solar flares, and coronal mass ejections. This period is particularly significant as the Sun enters a more active phase of its 11-year solar cycle.The observations gathered are vital for understanding the fundamental physics driving space weather events. These phenomena can affect astronauts, satellites, air travel, and power grids on Earth. By studying solar activity directly from within the corona, Parker provides critical insights that enable better prediction of solar storms and improve safety for future deep-space missions to the Moon and Mars.Parker Solar Probe: Mission overviewLaunched in 2018, Parker Solar Probe is the first spacecraft designed to fly directly through the Suns corona. It flies closer to the Sun than any previous spacecraft, gradually reaching velocities approaching 700,000 kilometers per hour. This unmatched proximity allows scientists to study solar activity in unprecedented detail.The mission is part of NASAs Living With a Star (LWS) program, which focuses on understanding aspects of the Sun-Earth system that impact life and society. Managed by NASAs Goddard Space Flight Center in Greenbelt, Maryland, Parker is operated by Johns Hopkins APL, where it was designed and built.Understanding space weather with Parker Solar ProbeNASA emphasises that Parkers measurements of the solar wind and solar events are critical for understanding high-energy space weather. These studies directly contribute to safeguarding astronauts, protecting satellites, and mitigating risks to infrastructure on Earth. By unraveling the Suns complex behaviour, Parker Solar Probe is paving the way for safer and more predictable human and robotic space exploration.Parker will begin returning detailed science data from this September 2025 encounter starting September 23, providing researchers with new insights into solar dynamics and their influence on Earth.Also Read | James Webb Space Telescope reveals dark beads and star patterns in Saturns atmosphere",
+        "date_published": "2025-09-23T14:00:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "NASAs Parker Solar Probe",
+            "autonomous close app",
+            "headlines"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NASAs",
+                "entity_type": "Organization"
+            },
+            {
+                "entity_name": "Parker Solar Probe",
+                "entity_type": "Product"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "Parker Solar Probe",
+                "entity_url": "https://en.wikipedia.org/wiki/Parker_Solar_Probe"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/did-earths-oceans-originate-from-an-ancient-near-earth-asteroid-scientists-find-clues/articleshow/124069242.cms",
+        "article_headline": "Did Earthâs oceans originate from an ancient near-Earth asteroid? Scientists find clues",
+        "article_body": "A recent study has uncovered that liquid water once flowed through the near-Earth asteroid Ryugu, overturning long-held beliefs about water activity on asteroids. Researchers analysed tiny rock fragments returned by Japans Hayabusa2 spacecraft and found signs of water movement occurring over a billion years after Ryugus formation. This discovery challenges the traditional view that asteroid water activity only happened in the earliest solar system stages. Scientists believe that a massive impact may have melted buried ice, allowing liquid water to percolate through the asteroids rocks.The findings suggest that carbon-rich asteroids could have preserved water for extended periods, potentially delivering more water to early Earth than previously thought and influencing the development of our planets oceans and atmosphere.Asteroids may retain water billions of years after formation, Ryugu revealsTraditionally, scientists believed that asteroids only experienced water-related processes during the earliest stages of the solar system, shortly after their formation. Ryugu, however, tells a different story. The analysis of its samples indicates that fluids moved through the asteroids rocks long after its birth, driven by internal heat or radioactive decay. This means that water could persist on some asteroids far longer than previously thought, potentially influencing prebiotic chemistry.Associate Professor Tsuyoshi Iizuka of the University of Tokyo explained, The water hung around for a long time and was not exhausted so quickly as previously assumed. This finding suggests that some asteroids remained active with water for billions of years, reshaping our understanding of asteroid evolution, habitability potential, and solar system history.Isotope analysis uncovers Ryugus hidden history of water activityThe core of the research focuses on the isotopes of lutetium (Lu) and hafnium (Hf). Lu-176 decays naturally into Hf-176 over time, and by measuring the ratio of these isotopes, scientists can determine the age and chemical history of rock samples. In Ryugus fragments, the amount of Hf-176 was far higher than predicted, implying that liquid water had washed away much of the original lutetium.This discovery was only possible due to the precise geochemical techniques developed to study minuscule fragments of Ryugu, some smaller than a grain of rice. Such analysis allowed researchers to uncover a record of water activity that would otherwise have remained hidden.Massive impact likely triggered long-lasting water flow in RyuguResearchers believe that a significant collision on Ryugus parent asteroid fractured the rock and melted buried ice. This impact released liquid water that moved through the asteroids interior, reshaping its composition. The same collision may also have contributed to the breakup of Ryugus parent body, ultimately forming the asteroid we see today.The presence of ice preserved for over a billion years indicates that carbon-rich asteroids could have been reservoirs of water far longer than previously recognized. This has profound implications for understanding how water was distributed in the early solar system.Asteroids like Ryugu may have played a key role in delivering water to early EarthThe Ryugu findings suggest that asteroids may have delivered more water to early Earth than previously thought. If carbon-rich asteroids retained ice for extended periods, they could have contributed significantly to the planets oceans and atmosphere. This adds a new dimension to the hypothesis that waterand potentially lifes building blocksarrived on Earth through asteroid impacts.Iizuka emphasised, This changes how we think about the long-term fate of water in asteroids. They were not just dry rocks; they could have been active reservoirs of water for billions of years.Ryugu, approximately 900 meters wide, is classified as a near-Earth asteroid. It orbits the Sun every 474 days and is considered potentially hazardous due to its close approach to Earth. The samples returned by Hayabusa2 in 2020 revealed chemical irregularities that indicate historical water flow.Interestingly, Ryugu may share a parent body with asteroid Bennu, visited by NASAs OSIRIS-REx mission. While Bennu samples have not shown clear evidence of flowing water, the study of Ryugu provides a valuable comparative insight into the evolution of C-type, carbon-rich asteroids.Asteroids as key water carriers to EarthAsteroids have long been thought to play a critical role in delivering water to Earth. The Ryugu discovery suggests that these space rocks may have supplied up to three times more water than previously estimated. This reinforces the idea that early asteroid impacts helped shape Earths oceans and potentially created conditions favorable for life.By demonstrating that water persisted on asteroids for billions of years, Ryugu expands our understanding of the solar systems evolution and the origin of water on our planet.Also Read | NASA Parker Solar Probe sets speed record at 687,000 kilometers per hour during 25th flyby; new insights",
+        "date_published": "2025-09-23T16:42:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "Earth asteroid Ryugu",
+            "recent study",
+            "liquid water"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "liquid water onc",
+                "entity_type": "Organization"
+            }
+        ],
+        "linked_entities": []
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/asteroid-2024-yr4-nasa-proposes-blowing-up-hazardous-space-rock-to-protect-moonandsatellites/articleshow/124085777.cms",
+        "article_headline": "Asteroid 2024 YR4: NASA proposes 'blowing up' hazardous space rock to protect moon and satellites",
+        "article_body": "Astronomers are closely monitoring a near-Earth asteroid known as 2024 YR4, which has raised concern due to its projected trajectory. Initially feared to pose a small risk of striking Earth, recent studies have shown that its chances of colliding with our planet are negligible. However, scientists now warn that the 65-metre-long asteroid carries a measurable risk of impacting the Moon in December 2032.The study titled \"Space Mission Options for Reconnaissance and Mitigation of Asteroid 2024 YR4\" preprint survey in Arxiv, explores strategies to address the potential impact of asteroid 2024 YR4, which has a 4% chance of striking the Moon in December 2032. The research evaluates various mission options, including reconnaissance, deflection, and disruption techniques, to mitigate the risks associated with this asteroid.Asteroid 2024 YR4 lunar impact could send massive debris toward Earth, threatening satellitesIf asteroid 2024 YR4 were to strike the Moon, the collision could eject a massive amount of debris into space. Researchers estimate that the impact might generate a debris cloud weighing over 100 million kilograms, with fragments potentially drifting toward Earth at varying speeds and unpredictable trajectories, depending on the force and angle of impact.This debris could endanger satellites and space infrastructure for years, creating a cascade of collisions similar to the feared Kessler syndrome. Meteorite fragments raining down from lunar debris could threaten everything from communication satellites to GPS networks, space telescopes, and future lunar missions, making planetary defense a critical issue for international space agencies and private aerospace companies alike.Scientists plan to break up asteroid 2024 YR4 to prevent a Moon crashTo prevent such a scenario, scientists, including researchers at NASA, are studying a bold solution: blowing up asteroid 2024 YR4. Their approach, described as a kinetic disruption mission, involves using high-powered explosive devices to fragment the asteroid into smaller, less dangerous pieces before it reaches the Moon.The proposal builds on the success of NASAs 2022 Double Asteroid Redirection Test (DART), where a spacecraft successfully nudged the asteroid Dimorphos off its course. However, experts point out that 2024 YR4 is much larger and further away, making simple deflection techniques impractical.One of the most serious options under discussion is the use of nuclear explosive devices. Scientists propose sending two 100-kiloton nuclear devices to intercept the asteroid. Each would be five to eight times more powerful than the atomic bombs dropped on Hiroshima and Nagasaki during World War II. The first detonation would aim to break apart or deflect the asteroid, while the second device would serve as a backup or be safely detonated in deep space if unused. Researchers argue that such a mission could not only protect Earths satellites but also serve as a blueprint for defending against future space rocks on a direct collision course with Earth.Executing this plan would be far more complex than past asteroid missions. The asteroid is currently more than 379 million miles away, meaning that any spacecraft would require years to reach it. Estimates suggest that preparing a mission could take five to seven years, with possible launch windows between 2029 and 2031. The asteroids mass, thought to range between 72.7 million and 2 billion pounds, adds further uncertainty, making precise planning essential.Preparing for asteroid 2024 YR4 highlights the need for planetary defenseWhile the probability of asteroid 2024 YR4 striking the Moon remains relatively low at just 4 percent, astronomers emphasize the importance of preparation. Unlike Earth-impacting asteroids, a lunar collision still carries significant risks for modern technology through debris threats.The proposed mission underscores a growing recognition that planetary defense is not just about saving lives on Earth but also protecting our expanding space infrastructure. Whether through nuclear disruption or other advanced techniques, 2024 YR4 may serve as a test case for how humanity responds to cosmic threats in the decades ahead.Also Read | NASA Parker Solar Probe sets speed record at 687,000 kilometers per hour during 25th flyby; new insights",
+        "date_published": "2025-09-24T12:55:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "Earth asteroid",
+            "Astronomers",
+            "2024 YR",
+            "concern"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "Astronomers",
+                "entity_type": "PersonType"
+            },
+            {
+                "entity_name": "Earth",
+                "entity_type": "Location"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "Astronomer",
+                "entity_url": "https://en.wikipedia.org/wiki/Astronomer"
+            },
+            {
+                "entity_name": "Near-Earth object",
+                "entity_url": "https://en.wikipedia.org/wiki/Near-Earth_object"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/artemis-ii-2026-nasa-prepares-first-crewed-mission-to-circle-around-the-moon-in-50-years-scheduled-for-february/articleshow/124087991.cms",
+        "article_headline": "Artemis II 2026: NASA prepares first crewed mission to circle around the moon in 50 years, scheduled for February",
+        "article_body": "NASA is preparing for a historic ten-day mission around the Moon, targeting a launch as early as February 2026. This will be the first crewed lunar flight in 50 years, marking a major milestone in humanitys return to deep-space exploration and advancing plans for a long-term presence on the Moon. Originally planned for no later than April 2026, the mission has been moved forward, reflecting NASAs confidence in its technology and commitment to maintaining leadership in space exploration. Four astronauts will travel beyond Earths orbit, testing the spacecrafts systems, procedures, and safety measures. The mission will provide critical data and experience to support future lunar landings and ensure that upcoming missions can operate efficiently and safely.Artemis II mission 2026: Four astronauts to circle the Moon aboard NASAs SLS and OrionThe Artemis II mission will carry four astronauts: Reid Wiseman, Victor Glover, Christina Koch of NASA, and Jeremy Hansen of the Canadian Space Agency. All four will journey around the Moon without landing, becoming the first humans to travel beyond low Earth orbit since Apollo 17 in 1972.Lakiesha Hawkins, NASAs acting deputy associate administrator, emphasised the historic significance: We together have a front-row seat to history. Safety is our top priority, but this mission is a major milestone in human space exploration.At the heart of the mission is NASAs powerful Space Launch System (SLS), designed to propel the Orion spacecraft and its crew beyond Earth. Launch Director Charlie Blackwell-Thompson confirmed that the SLS rocket is nearly complete, with only final integration and ground testing of the Orion capsule remaining.Orion, which will serve as the astronauts home for the entire journey, will initially be boosted into Earth orbit by the SLS and two solid rocket boosters. These boosters will detach minutes after launch, having carried the heavy payload to orbit. Eight minutes after liftoff, the SLS core stage separates from Orion and the Interim Cryogenic Propulsion Stage (ICPS), allowing the spacecrafts solar arrays to deploy and begin charging its batteries.Artemis II Moon mission: Orion prepares with orbit boost and safety checksFollowing launch, ICPS will perform an orbit-raising maneuver, and a comprehensive systems check will take place over the next 25 hours. If successful, Orion will separate from ICPS to conduct the Proximity Operations Demonstrationa rehearsal of docking and maneuvering techniques essential for future lunar landings. Engineers and mission controllers will closely monitor spacecraft telemetry, communications, and life-support systems to ensure astronaut safety and mission success, while making real-time adjustments as needed.Twenty-three hours later, Orion will execute a Translunar Injection burn, propelling it on a four-day voyage that will carry astronauts more than 230,000 miles from Earth. During the journey, continuous systems monitoring will ensure all spacecraft functions perform optimally.Artemis II science and re-entry: Studying human health and returning safely from the MoonIn addition to testing spacecraft systems, Artemis II will provide unique scientific opportunities. NASA will study how extended space travel affects the human body by analyzing organoid tissue samples derived from the astronauts blood. Dr. Nicky Fox, NASAs head of science, explained: We want to examine in detail the effects of microgravity and radiation on these samples. While we wont dissect the astronauts, organoids allow us to understand physiological changes during spaceflight.After slingshotting around the Moon, Orion will return to Earth over four days, guided by Earths gravity. Upon arrival, the service module, which houses the spacecrafts primary propulsion, will separate from the crew module. The astronauts will then face the critical re-entry phase, descending through Earths atmosphere before parachuting safely into the Pacific Ocean off the coast of California.Preparing for Artemis III: How Artemis II will help humans return to the MoonThe success of Artemis II is crucial for NASAs next objective: Artemis III, which aims to land astronauts on the Moon. While NASA targets no earlier than mid-2027 for this mission, experts like Dr. Simeon Barber of the Open University caution that this timeline is ambitious. Artemis III will depend on the readiness of SpaceXs Starship to transport astronauts to and from the lunar surfacea system that still faces significant developmental challenges.Jeff Radigan, lead Artemis II flight director, highlighted the unprecedented distance the crew will travel: Theyre going at least 5,000 nautical miles past the Moon, farther than anyone has ever gone before. This mission will set the stage for humanitys return to the lunar surface.Also read | NASA shares 8 jaw-dropping Milky Way images revealing the galaxys hidden wonders",
+        "date_published": "2025-09-24T14:15:00+05:30",
+        "comments": [
+            "Now humanity to make bases or launch pad on lunar surface to travel farther to another planet or nearby moons. Also it's necessary to explore UFO, UAP like spacecrafts with multiple speeds, multi-fuel and multi-purposes."
+        ],
+        "detected_language": "English",
+        "comments_sentiment": [
+            {
+                "comment": "Now humanity to make bases or launch pad on lunar surface to travel farther to another planet or nearby moons. Also it's necessary to explore UFO, UAP like spacecrafts with multiple speeds, multi-fuel and multi-purposes.",
+                "sentiment": "neutral"
+            }
+        ],
+        "key_phrases": [
+            "historic ten-day mission",
+            "NASA",
+            "Moon",
+            "launch",
+            "Feb"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NASA",
+                "entity_type": "Organization"
+            },
+            {
+                "entity_name": "ten-day",
+                "entity_type": "DateTime"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "NASA",
+                "entity_url": "https://en.wikipedia.org/wiki/NASA"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/these-dogs-can-actually-think-like-humans-surprisingly-smarter-than-children/articleshow/124089977.cms",
+        "article_headline": "These dogs can actually think like humans â surprisingly smarter than children",
+        "article_body": "A recent study highlights how the smartest dogs demonstrate cognitive abilities comparable to young human children. Conducted by a team of canine cognition researchers, including Zachary Silver from Yale University and Claudia Fugazza from Etvs Lornd University in Budapest, the study shows that dogs display advanced social intelligence, such as interpreting human gestures, understanding words, and considering human perspectives. Certain breeds, particularly Border Collies, were observed exhibiting problem-solving skills and social reasoning akin to toddlers. This research underscores how domestication and evolutionary pressures have shaped canine cognition and offers insights into human social development and conditions like autism.Social intelligence in dogs mirrors that of humans Dogs have evolved social intelligence that allows them to understand humans deeply, a trait shaped by thousands of years of domestication. They can follow human cues such as pointing and gaze direction and assess human interactions, showing preferences for helpful over unhelpful individuals. This demonstrates their ability to read humans in ways previously thought exclusive to primates or young children. The study revealed that the smartest dogs excel in problem-solving, spatial reasoning, and even simple arithmetic tasks. Some dogs were observed using intentional deception to obtain rewards, highlighting sophisticated cognitive strategies. Their abilities in these areas often rival those of young children, indicating a high degree of mental flexibility and learning capacity.Understanding human perspectives Research led by Silver and Fugazza found that dogs can consider what humans know or see, effectively demonstrating perspective-taking. This capacity for understanding human intentions and beliefs underpins their cooperative behavior and strengthens the unique bond between humans and dogs. Certain breeds, particularly Border Collies, consistently scored higher in measures of intelligence and social reasoning. These dogs displayed exceptional memory, learning speed, and responsiveness to human cues, aligning their cognitive abilities more closely with a young childs mental capacity than previously recognized. Studying canine cognition offers insights into human evolution and social behavior. By understanding how dogs process information and interpret social cues, researchers hope to shed light on developmental conditions like autism and the evolution of social intelligence. Dogs cognitive abilities also emphasize the importance of social interaction and environmental enrichment in promoting mental growth. The smartest dogs are capable of processing and responding to information much like young children. Their advanced social intelligence, problem-solving skills, and understanding of human perspectives make them uniquely attuned to our behavior. This study demonstrates that dogs do more than follow commandsthey actively interpret and engage with the world around them, thinking in ways that are surprisingly human-like. This growing body of research may also guide better training methods that align with dogs natural intelligence.",
+        "date_published": "2025-09-24T15:57:00+05:30",
+        "comments": [
+            "Dogs are smarter than Bikers also. They ensure fall of the biker by just running behind the bike."
+        ],
+        "detected_language": "English",
+        "comments_sentiment": [
+            {
+                "comment": "Dogs are smarter than Bikers also. They ensure fall of the biker by just running behind the bike.",
+                "sentiment": "positive"
+            }
+        ],
+        "key_phrases": [
+            "recent study",
+            "smartest dogs",
+            "cognitive abilities",
+            "young"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "study",
+                "entity_type": "Event"
+            }
+        ],
+        "linked_entities": []
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/business/india-business/science-push-cabinet-approves-rs-2277-crore-csir-capacity-building-scheme-to-strengthen-rd-ecosystem/articleshow/124090517.cms",
+        "article_headline": "Science push: Cabinet approves Rs 2,277 crore CSIR capacity building scheme; to strengthen R&D ecosystem",
+        "article_body": "The Union Cabinet on Wednesday approved the Department of Scientific and Industrial Research (DSIR) / Council of Scientific and Industrial Research (CSIR) scheme on Capacity Building and Human Resource Development with a total outlay of Rs 2,277.40 crore for the 15th Finance Commission cycle (2021-22 to 2025-26).Implemented by CSIR, the scheme will cover all R&D institutions, national laboratories, Institutes of National Importance, Institutes of Eminence, and universities across India. It aims to provide young researchers with opportunities to pursue careers in universities, industry, national R&D laboratories, and academic institutions under the guidance of eminent scientists and professors across Science, Technology & Engineering, Medical, and Mathematical Sciences (STEMM), according to government release.The initiative expected to play a key role in advancing Sustainable Development Goals (SDGs) for Indias science and technology sector by increasing researchers per million population and expanding the pool of high-quality human resources.Indias concerted R&D efforts over the past decade have strengthened its global position, improving its ranking to 39th in the 2024 Global Innovation Index (GII) by WIPO. According to NSF, USA data, India now ranks among the top three countries in scientific paper publications. The scheme has supported thousands of scholars and scientists whose outputs have contributed significantly to the countrys scientific achievements.The Cabinet noted that the approval marks a milestone in CSIRs 84-year history, consolidating the scheme into four sub-programmes: Doctoral and Postdoctoral Fellowships; Extramural Research Scheme, Emeritus Scientist Scheme, and Bhatnagar Fellowship; Promotion and Recognition of Excellence through awards; and knowledge sharing via Travel and Symposia Grants. The government said the initiative underscores its commitment to a robust, innovation-driven R&D ecosystem and preparing Indian science for global leadership in the 21st century.",
+        "date_published": "2025-09-24T16:22:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "The Union Cabinet",
+            "Industrial Research",
+            "Wednesday",
+            "Department",
+            "Scientific",
+            "DSIR"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "Union Cabinet",
+                "entity_type": "Organization"
+            },
+            {
+                "entity_name": "Wednesday",
+                "entity_type": "DateTime"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "Union Council of Ministers",
+                "entity_url": "https://en.wikipedia.org/wiki/Union_Council_of_Ministers"
+            },
+            {
+                "entity_name": "Wednesday",
+                "entity_url": "https://en.wikipedia.org/wiki/Wednesday"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/nasa-launches-three-missions-on-falcon-9-to-monitor-space-weather-and-safeguard-astronauts/articleshow/124093219.cms",
+        "article_headline": "NASA launches three missions on Falcon 9 to monitor space weather and safeguard astronauts",
+        "article_body": "On September 24, 2025, NASA successfully launched three spacecraft aboard a SpaceX Falcon 9 rocket from Kennedy Space Center, aiming to advance understanding of space weather and its effects on Earth and human space exploration. The missions, NASAs Interstellar Mapping and Acceleration Probe (IMAP), the Carruthers Geocorona Observatory (CGO), and NOAAs Space Weather Follow-On Lagrange 1 (SWFO-L1), will study solar activity, interstellar particles, and Earths outer atmosphere. By monitoring solar storms, charged particles, and coronal mass ejections, these missions provide critical data to safeguard astronauts on future lunar and Martian missions, while protecting satellites, power grids, and communication networks on Earth. The combined launch highlights NASAs commitment to scientific innovation and planetary safety.NASAs primary missions: IMAP and CGOIMAP: The Interstellar Mapping and Acceleration Probe, NASAs primary mission costing approximately $600 million, will study solar wind, interstellar dust, and the heliosphere, the Suns magnetic bubble surrounding the solar system. Equipped with ten instruments, IMAP will track how charged particles are accelerated in space and provide radiation warnings crucial for astronaut safety during future missions to the Moon and Mars. The mission will also enhance understanding of space weather effects across the solar system.Carruthers Geocorona Observatory: This smaller NASA satellite, named after scientist George Carruthers, will investigate Earths exosphere, the planets outermost atmospheric layer. By imaging ultraviolet light from the geocorona, CGO will help scientists understand how space weather impacts Earths atmosphere and satellites in near-Earth orbit.NOAAs SWFO-L1: real-time space weather monitoringThe Space Weather Follow-On Lagrange 1 spacecraft will deliver real-time monitoring and early warning for solar storms. Positioned at the Sun-Earth Lagrange Point 1, about 1.5 million km from Earth, it provides an uninterrupted view of solar activity. Equipped with a coronagraph, SWFO-L1 will image coronal mass ejections and help protect Earth-based technologies from space weather disruptions.Technical and operational detailsAll three spacecraft were launched together to efficiently reach the Sun-Earth Lagrange Point 1 (L1), a strategic vantage point for observing solar phenomena without Earth interference. The journey to L1 is expected to take approximately four months. NASA leveraged the Falcon 9s spare capacity to combine the missions into a single launch, demonstrating cost-effectiveness and operational efficiency. Data from the missions will improve space weather forecasting, which is critical for protecting satellites, power infrastructure, and astronauts venturing beyond low Earth orbit.Importance of space weather monitoringSolar storms, caused by solar flares and coronal mass ejections, pose serious risks to both space and Earth-based assets. They can disrupt GPS, communication systems, and power grids, while exposing astronauts to high radiation levels. By providing timely warnings and detailed mapping of charged particles in the solar system, these missions aim to enhance preparedness, safeguard technology, and support human exploration of the Moon and Mars.This integrated trio of missions marks a significant advancement in space weather research. The data collected over the coming decades is expected to yield critical insights into the Sun-Earth relationship, heliospheric dynamics, and planetary protection. With NASAs Artemis program and other ambitious space initiatives on the horizon, these missions provide essential knowledge to ensure the safety and success of future space exploration. Together, IMAP, CGO, and SWFO-L1 represent one of NASAs most comprehensive efforts yet to study the Suns influence on our planet. Their success will be vital in shaping the future of deep-space exploration and safeguarding human presence beyond Earth.",
+        "date_published": "2025-09-24T18:36:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "SpaceX Falcon 9 rocket f",
+            "three spacecraft",
+            "September",
+            "NASA"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "September 24, 2025",
+                "entity_type": "DateTime"
+            },
+            {
+                "entity_name": "NASA",
+                "entity_type": "Organization"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "September 24",
+                "entity_url": "https://en.wikipedia.org/wiki/September_24"
+            },
+            {
+                "entity_name": "NASA",
+                "entity_url": "https://en.wikipedia.org/wiki/NASA"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/nasas-james-webb-telescope-reveals-stunning-details-of-largest-star-formation-in-the-milky-way/articleshow/124099264.cms",
+        "article_headline": "NASAâs James Webb Telescope reveals stunning details of largest star formation in the Milky Way",
+        "article_body": "NASAs James Webb Space Telescope has unveiled breathtaking new images of Sagittarius B2, the most massive and active star-forming region in our Milky Way galaxy. Using its NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument), Webb captured an extraordinary view of massive stars, glowing clouds of gas, and cosmic dust. Sagittarius B2, located just a few hundred light-years from the galaxys central black hole Sagittarius A, is producing half of the galactic centers stars despite holding only a fraction of its gas. These observations provide astronomers with unprecedented insight into how stars are born in extreme environments and why Sagittarius B2 is unusually productive.James Webbs NIRCam reveals hidden young starsWebbs NIRCam instrument showcased a field filled with stars, clumps of glowing orange clouds, and dense areas of dust where new stars are still forming. These seemingly dark patches are not empty space but dense molecular clouds hiding young stars too faint to shine through. The infrared light captured by NIRCam penetrates these clouds, giving scientists an intimate view of stellar nurseries that were previously invisible.In contrast, Webbs MIRI instrument exposed the same region in mid-infrared light, revealing glowing cosmic dust heated by young, massive stars. The brightest stars appear as piercing blue points, while the reddish regions, such as Sagittarius B2 North, display remarkable chemical complexity. MIRIs resolution and sensitivity allowed astronomers to see details never before possible, deepening understanding of the extreme conditions shaping massive stars.The side-by-side images highlight the differences between near-infrared and mid-infrared observations. NIRCam emphasizes colorful stars punctuated by bright gas clouds, while MIRI dims most stars, letting dust and dense molecular regions dominate the view. Together, the images offer a complete portrait of both stars and the material that forms them, creating a powerful tool for unraveling the mysteries of star formation.Why Sagittarius B2 mattersDespite containing just 10 percent of the gas in the galactic center, Sagittarius B2 generates 50 percent of its stars, raising questions about what drives its extraordinary productivity. By studying this region in unprecedented detail, astronomers aim to understand why star formation here is so much more active than in surrounding areas. These insights could reshape theories of how galaxies evolve and how massive stars influence their environments.A step forward in cosmic discoveryFor astronomers, Webbs revelations mark a leap forward in the study of star formation. As University of Florida researcher Nazar Budaiev explained, Webbs findings both answer long-standing questions and open new mysteries, continuing humanitys millennia-old exploration of the cosmos. With its ability to pierce dense clouds and capture faint details, Webb is redefining our understanding of the Milky Way and the origins of stars. These discoveries also serve as a reminder of how much remains unseen in our own galaxy. Each Webb image is not just a picture of the sky, but a window into the hidden processes that shape the universe.",
+        "date_published": "2025-09-25T07:00:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "James Webb Space Telescope",
+            "breathtaking new images",
+            "Sagittarius B",
+            "NASAs"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NASAs",
+                "entity_type": "Organization"
+            },
+            {
+                "entity_name": "James Webb",
+                "entity_type": "Product"
+            },
+            {
+                "entity_name": "Space Telescope",
+                "entity_type": "Product"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "James Webb Space Telescope",
+                "entity_url": "https://en.wikipedia.org/wiki/James_Webb_Space_Telescope"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/sun-is-waking-up-nasa-warns-solar-activity-could-disrupt-gps-power-grids-and-satellites/articleshow/124107834.cms",
+        "article_headline": "âSun is waking upâ: NASA warns solar activity could disrupt GPS, power grids, and satellites",
+        "article_body": "NASA has issued a warning that the Sun is waking up, with solar activity increasing steadily after decades of decline. The agencys latest research, led by Jamie Jasinski at NASAs Jet Propulsion Laboratory and published via the OMNIWeb Plus platform, shows that solar wind strength, magnetic field intensity, and sunspot numbers have all been rising since the solar minimum of 2008. This unexpected reversal could have significant effects on Earth, including disruptions to GPS systems, radio communications, power grids, and satellites. NASA emphasizes that monitoring these changes is critical to protect both technological infrastructure and astronauts in space.NASA explains solar cyclesThe Sun follows an approximately 11-year solar cycle, alternating between periods of high and low activity. During solar maximum, sunspotscooler, darker patches on the Sun caused by magnetic activityare abundant, often triggering solar flares and coronal mass ejections. Solar minimums, in contrast, see fewer sunspots and calmer activity. Long-term trends in solar behavior, however, can stretch over decades and are more difficult to predict, making careful monitoring essential for anticipating potential impacts on Earth.Increased solar activity produces space weather events that can disrupt daily life. Solar flares and coronal mass ejections can interfere with GPS navigation, radio signals, and power grids. Satellites are at risk of damage or operational interruptions, and astronauts face higher radiation exposure. Understanding and predicting solar behavior helps operators and engineers take protective measures, such as adjusting satellite orbits or hardening electrical grids against geomagnetic storms.NASAs ongoing research on Solar activitiesNASAs team, including data from ACE, Wind, and other spacecraft, has tracked solar wind and magnetic field changes since the 1990s. The study published on the OMNIWeb Plus platform highlights how solar activity began climbing steadily after the 2008 minimum, contradicting earlier expectations of a prolonged quiet phase. Upcoming missions like IMAP, the Carruthers Geocorona Observatory, and NOAAs SWFO-L1 will further study solar activity and space weather, helping to safeguard technology and astronauts alike.As the Sun ramps up, understanding long-term solar trends remains a challenge. Historic periods of low activity, such as the Maunder Minimum (16451715), show that extended calm phases can occur, but predicting them remains difficult. NASAs research underscores the importance of vigilance, enabling governments, companies, and space agencies to anticipate disruptions and implement mitigation strategies for technology-dependent systems on Earth. Ultimately, these efforts remind us that our planet is deeply connected to the Suns rhythms. Preparing for solar activity is not just about protecting technology, but also about safeguarding the future of human exploration beyond Earth.",
+        "date_published": "2025-09-25T12:44:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "solar activity",
+            "NASA",
+            "warning",
+            "Sun"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NASA",
+                "entity_type": "Organization"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "NASA",
+                "entity_url": "https://en.wikipedia.org/wiki/NASA"
+            },
+            {
+                "entity_name": "Sun",
+                "entity_url": "https://en.wikipedia.org/wiki/Sun"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/world/us/nightmare-bacteria-deadly-drug-resistant-pathogen-spreading-fast-in-us-all-you-need-to-know/articleshow/124108001.cms",
+        "article_headline": "Nightmare bacteria: Deadly drug-resistant pathogen spreading fast in US â All you need to know",
+        "article_body": "Infections caused by drug-resistant nightmare bacteria are rising rapidly in the United States, with cases increasing nearly 70 percent between 2019 and 2023, according to scientists at the US Centers for Disease Control and Prevention (CDC). The findings, published Monday in the Annals of Internal Medicine, warn of the growing threat from bacteria carrying the so-called NDM gene, which are resistant to many frontline treatments.What the CDC report foundResearchers analysed data from 29 US states that test and report cases of carbapenem-resistant bacteria. They counted 4,341 carbapenem-resistant infections in 2023, including 1,831 cases linked to bacteria carrying the NDM (New Delhi metallo--lactamase) gene.The rate of carbapenem-resistant infections rose from just under 2 per 100,000 people in 2019 to more than 3 per 100,000 in 2023, marking a 69 percent increase. In comparison, the rate of NDM-related cases surged more than fivefold, from about 0.25 to 1.35 per 100,000 people.The rise of NDMs in the U.S. is a grave danger and very worrisome, David Weiss, an infectious diseases researcher at Emory University, told the Associated Press in an email.CDC scientists noted that actual numbers are likely higher because many hospitals lack the capacity to test for genetic resistance, and several large states  including California, Florida, New York, and Texas  did not submit complete data.What are nightmare bacteria?The CDC uses the term nightmare bacteria to describe pathogens that resist a wide range of antibiotics, including carbapenems, often considered drugs of last resort for severe infections.Bacteria carrying the NDM gene are particularly dangerous because they produce an enzyme that breaks down carbapenems, rendering them ineffective. Only two intravenous antibiotics are currently effective against these strains, both of which are costly and difficult to administer.Originally, NDM-carrying bacteria were identified mainly in patients who had received medical care overseas, making them relatively rare in the US. But the recent surge suggests wider community spread and a growing domestic threat.How bacteria become drug-resistantDrug resistance develops when microbes adapt to survive medicines designed to kill them. According to CDC researchers, misuse and overuse of antibiotics is a key driver.Incomplete prescriptions, unnecessary use of antibiotics for non-bacterial illnesses, and widespread availability of drugs without proper oversight all contribute to the problem. Resistant bacteria not only survive but can also share their resistant genes with other microbes, making infections harder to treat.Dr Maroya Walters, one of the CDC reports authors, explained that community spread could make even routine infections more serious. That may play out in doctors offices across the country, as infections long considered routine  like urinary tract infections  could become harder to treat, Walters said.The pandemic connectionSome experts suggest the COVID-19 pandemic may have accelerated drug resistance.We know that there was a huge surge in antibiotic use during the pandemic, so this likely is reflected in increasing drug resistance, Dr Jason Burnham, a researcher at Washington University, told the Associated Press.Burnham added that the CDCs figures underestimate the true scale of the problem because testing remains inconsistent across the country.Early signs of infectionCarbapenem-resistant Enterobacteriaceae (CRE) infections are difficult to distinguish from common bacterial illnesses, which can delay diagnosis and treatment. Some of the early signs include:Urinary tract infections (UTIs): frequent urination, pain or burning sensation, cloudy urineBloodstream infections: high fever, rapid heartbeat, very low blood pressurePneumonia (lung infection): persistent cough, chest pain, shortness of breathBecause these symptoms overlap with less dangerous infections, specialised testing is required to confirm resistance.Global spread of NDM-carrying bacteriaThe problem of antibiotic resistance is not confined to the US. Experts stress that because bacteria spread easily between people, animals, and food chains, the threat is global.South Asia: NDM-producing bacteria are relatively common, particularly in India and Pakistan. Contributing factors include overcrowded hospitals, high antibiotic use, and weak regulation of generic drugs.Europe: Southern European nations such as Greece, Italy, and Turkiye report higher rates of resistant bacteria than northern Europe, where infection control measures are stricter.Africa: Data remains limited, but studies suggest resistant bacteria are present in both hospitals and communities. Weak sanitation and unregulated antibiotic use heighten the risk.Latin America: Countries such as Brazil and Argentina have reported outbreaks of carbapenem-resistant infections, especially in 2021 and 2022.Researchers note that countries with weaker health systems or looser restrictions on antibiotic sales are more vulnerable to rapid spread.Why this mattersDrug-resistant infections are a major public health concern because they reduce the effectiveness of antibiotics that underpin modern medicine. Surgeries, cancer treatments, and routine procedures rely on antibiotics to prevent or treat infections.The CDC has repeatedly warned that without effective action, resistant bacteria could roll back decades of medical progress. The rise of NDM-related infections in the US adds urgency to the challenge.The CDC memo concludes that stronger surveillance, better infection control, and careful stewardship of existing antibiotics are essential. Expanded testing across states, international cooperation, and the development of new drugs are also needed to prevent wider outbreaks.For now, the scale of the threat remains uncertain. As Burnham noted, the absolute number of US infections is definitely underestimated.",
+        "date_published": "2025-09-25T13:00:00+05:30",
+        "comments": [
+            "The ONLY way to destroy these smart bacterias that are growing resistant to antibiotics - teach them RELIGION and POLITICS. They will fight amongst themselves and destroy themselves."
+        ],
+        "detected_language": "English",
+        "comments_sentiment": [
+            {
+                "comment": "The ONLY way to destroy these smart bacterias that are growing resistant to antibiotics - teach them RELIGION and POLITICS. They will fight amongst themselves and destroy themselves.",
+                "sentiment": "negative"
+            }
+        ],
+        "key_phrases": [
+            "drug-resistant nightmare bacteria",
+            "United States",
+            "Infections"
+        ],
+        "named_entiry_recognition": [],
+        "linked_entities": [
+            {
+                "entity_name": "Infection",
+                "entity_url": "https://en.wikipedia.org/wiki/Infection"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/the-moon-is-rusting-and-earth-might-be-to-blame-scientists-reveal-how/articleshow/124108906.cms",
+        "article_headline": "The Moon is rusting and Earth might be to blame; scientists reveal how",
+        "article_body": "The Moon, long thought to be a barren and unchanging celestial body, is now showing a surprising and puzzling phenomenon: rusting. Scientists have recently discovered that oxygen particles from Earth can travel through space and react with iron-rich minerals on the lunar surface, gradually forming haematite, the mineral commonly known as rust. This unexpected finding reveals a previously unrecognised chemical link between Earth and the Moon, showing that our planet has a subtle yet direct influence on its natural satellite. Studying these interactions provides researchers with valuable insights into the Moons evolving surface, unique environmental conditions, and complex chemical processes. Over time, these changes turn the Moon into a natural record of Earth-Moon interactions, solar winds, and broader planetary activity in our solar system.Lunar Haematite discovery: How rust forms on the MoonHaematite forms when iron interacts with oxygen, typically requiring some presence of water. On Earth, this process occurs naturally and is commonplace. However, the Moons environment is extremely dry, virtually devoid of free oxygen, and exposed to harsh solar radiation, making the presence of haematite particularly puzzling.In 2020, Indias Chandrayaan-1 mission first identified haematite deposits near the lunar poles. The finding suggested that oxygen must have arrived from an external source, prompting scientists to consider Earth as a potential supplier through mechanisms such as the solar wind or Earths magnetic field. This discovery challenged the assumption that the Moons surface chemistry is isolated and static, revealing it as a dynamic record of interplanetary interactions over time.How Earths particles transform the lunar surfaceFor roughly five days each month, Earth aligns between the Sun and the Moon, shielding the Moon from the Suns constant stream of charged particles. During this period, the Moon is exposed mainly to Earth wind  charged particles, including oxygen, hydrogen, and nitrogen, that escape from Earths upper atmosphere and drift through space.When these ions collide with the Moons surface, they implant into the upper layers of lunar soil. The oxygen ions, in particular, react with iron-bearing minerals to produce haematite. This natural transfer of particles demonstrates a continuous chemical exchange between Earth and Moon, previously unrecognized by planetary scientists.Laboratory experiments reveal how Earth wind rusts the MoonTo confirm the role of Earth wind in rust formation, Ziliang Jin and his team at Macau University of Science and Technology conducted laboratory experiments. They simulated the Moons exposure to Earth wind by accelerating oxygen and hydrogen ions and directing them at single crystals of iron-rich minerals similar to those found on the lunar surface.The experiments produced compelling results. Oxygen ions caused the iron minerals to transform into haematite, while hydrogen ions could partially reverse the reaction, converting haematite back into iron. This provides clear evidence that Earth wind triggers chemical and mineralogical changes on the Moon, supporting the theory that the Moons rust originates from Earth.Earth wind and its role in shaping lunar geologyThis discovery has profound implications for our understanding of lunar geology and Earth-Moon interactions. Shuai Li, who led the 2020 Chandrayaan-1 study, praised the experimental design for isolating the factors responsible for haematite formation.Future lunar missions could return samples of lunar haematite to Earth for detailed isotopic analysis. By examining the oxygen within the mineral, scientists could conclusively determine whether it originated from Earth wind, offering direct evidence of Earths influence on the Moon. Such findings would not only deepen our understanding of lunar chemistry but also provide insight into how planetary atmospheres can affect neighboring celestial bodies over time.Also Read | NASA Parker Solar Probe sets speed record at 687,000 kilometers per hour during 25th flyby; new insights",
+        "date_published": "2025-09-25T13:17:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "unchanging celestial body",
+            "The Moon",
+            "barren",
+            "surprising"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "The",
+                "entity_type": "Location"
+            },
+            {
+                "entity_name": "Moon",
+                "entity_type": "Location"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "Moon",
+                "entity_url": "https://en.wikipedia.org/wiki/Moon"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/nasas-artemis-ii-mission-orion-spacecraft-integrity-named-ahead-of-historic-lunar-flight-in-february-2026/articleshow/124112683.cms",
+        "article_headline": "NASAâs Artemis II mission: Orion spacecraft âIntegrityâ named ahead of historic lunar flight in February 2026",
+        "article_body": "NASAs Artemis II mission is set to make history as the first crewed lunar flight in decades, with astronauts naming their Orion spacecraft Integrity. The crew, led by Commander Reid Wiseman, alongside Pilot Victor Glover and Mission Specialists Christina Koch and Jeremy Hansen, announced the name on September 24, 2025, during a live-streamed NASA event. Integrity reflects the missions core values of trust, respect, candor, and humility, honoring the thousands of engineers, scientists, and technicians globally involved in its success and development. Scheduled for launch on 5 February 2026, Artemis II will carry the astronauts on a ten-day journey around the Moon, rigorously testing Orions life-support and navigation systems in deep space and preparing for Artemis 3, which aims to achieve a lunar landing and pave the way for future Mars missions and long-term human space exploration.NASA Artemis II crew announces Orion capsule nameDuring a press event at NASAs Johnson Space Center on September 24, 2025, the Artemis II crew officially revealed that their Orion spacecraft would be called Integrity. The crew includes Commander Reid Wiseman, Pilot Victor Glover, and Mission Specialists Christina Koch and Jeremy Hansen.The name was carefully chosen to reflect the missions guiding principles, which include trust, respect, candor, and humility. It also serves as a tribute to the thousands of engineers, scientists, technicians, and specialists who have contributed to the success of the Artemis program. Integrity represents not only technical precision but also the spirit of teamwork and collaboration across multiple nations and cultures, highlighting the global nature of space exploration.Significance of Integrity as Orion capsule name in Artemis II missionThe choice of Integrity carries deep symbolic meaning. NASA officials emphasized that the name embodies the shared values of the astronaut corps and the extensive international cooperation required to make the mission possible.From over 300,000 spacecraft components to the thousands of people working across multiple agencies, the Artemis II mission is the product of a massive collaborative effort. The name reminds both the crew and the public that success in space is built on trust, ethical commitment, and collective effort.NASA Artemis II mission overviewArtemis II is a ten-day mission that will send astronauts on a journey around the Moon, testing Orions systems in deep space conditions. Unlike the planned Artemis 3 mission, Artemis II will not include a lunar landing. Instead, it will focus on:Evaluating spacecraft systems in orbit around the Moon.Testing crew operations and safety protocols in deep space.Laying the groundwork for future lunar landings and extended missions.The crew will launch aboard NASAs Space Launch System (SLS) rocket within a launch window that spans 5 February to 26 April 2026. After circling the Moon, the astronauts will return to Earth, completing a journey that demonstrates Orions readiness for more complex missions ahead.Artemis II crew training and mission preparednessThe Artemis II astronauts have undergone extensive training to ensure readiness for any challenges they may face. Training includes handling potential emergencies, navigating spacecraft systems, conducting scientific experiments, and maintaining communication in deep space. They also practice problem-solving in simulated high-stress situations to reinforce teamwork and decision-making skills.Their preparation reflects the Artemis programs overarching goals: safely returning humans to the Moon, developing sustainable lunar operations, and ultimately preparing for human missions to Mars. Each astronauts expertise, adaptability, and rigorous training is critical for mission success, highlighting the human element behind every technological achievement and demonstrating the dedication required for deep space exploration.Global collaboration in space explorationThe Artemis II mission is a testament to international teamwork. Contributions from NASA, the Canadian Space Agency (CSA), and numerous contractors and research institutions worldwide have been essential to the missions success.By naming their spacecraft Integrity, the crew pays homage not only to the technical precision required for spaceflight but also to the shared dedication, collaboration, and resilience of the global space community. The mission underscores how space exploration transcends national boundaries and relies on unified human effort.Significance of Artemis II in human spaceflightArtemis II is more than a test flightit marks the beginning of a new era in human space exploration. This mission will help NASA refine spacecraft systems, crew protocols, and international collaboration strategies, setting the stage for:Artemis 3, which will include the first lunar landing of the program.Sustainable lunar exploration with long-term habitats and research bases.Future crewed missions to Mars, leveraging lessons learned from lunar operations.By successfully orbiting the Moon and returning safely, Artemis II will demonstrate Orions reliability, inspire the public, and reinforce humanitys expanding presence in space.Also Read | The Moon is rusting and Earth might be to blame; scientists reveal how",
+        "date_published": "2025-09-25T15:11:00+05:30",
+        "comments": [
+            "Good news for humanity! Now humanity to make bases or launch pad on lunar surface to travel farther to another planet or nearby moons. Also it's necessary to explore UFO, UAP like spacecrafts with multiple speeds, multi-fuel and multi-purposes and reach planet Mars within couple of days there."
+        ],
+        "detected_language": "English",
+        "comments_sentiment": [
+            {
+                "comment": "Good news for humanity! Now humanity to make bases or launch pad on lunar surface to travel farther to another planet or nearby moons. Also it's necessary to explore UFO, UAP like spacecrafts with multiple speeds, multi-fuel and multi-purposes and reach planet Mars within couple of days there.",
+                "sentiment": "positive"
+            }
+        ],
+        "key_phrases": [
+            "NASAs Artemis II mission",
+            "first crewed lunar flight",
+            "history",
+            "decades"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NASAs",
+                "entity_type": "Organization"
+            },
+            {
+                "entity_name": "Artemis II mission",
+                "entity_type": "Event"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "Artemis 2",
+                "entity_url": "https://en.wikipedia.org/wiki/Artemis_2"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/6-bhk-apartment-astronaut-shubhanshu-shukla-says-first-module-of-bharatiya-antariksh-station-to-launch-soon-explains-design/articleshow/124112893.cms",
+        "article_headline": "â6 BHK apartmentâ: Astronaut Shubhanshu Shukla says first module of Bharatiya Antariksh Station to launch soon; explains design",
+        "article_body": "NEW DELHI: Astronaut and group captain Shubhanshu Shukla on Thursday said the first module of the Bharatiya Antariksh Station, Indias upcoming space station, will be launched soon.Plans are in place, teams are working, and the first module of the Bharatiya Antariksh Station will be launched soon, Shukla said at the India Today Conclave in Mumbai. Explaining the design, Shukla compared it to a 6 BHK apartment that will grow in stages and provide living space for Indian astronauts in low-earth orbit to conduct experiments.Isro chairman V Narayanan had earlier announced that the first module would be launched in 2028. The module is the first of five parts that will make up the full station at 450 km altitude. The Union Cabinet has already cleared the project as part of an expanded Gaganyaan programme, India's first crewed mission. India aims to make the station fully operational by 2035 and send a crewed mission to the Moon by 2040. The first module is being designed for microgravity research and spacewalk technologies. Isro says the station will support scientific work, technology development, and new innovations that could benefit industries on Earth. A model of the Bharatiya Antariksh Station was unveiled in New Delhi on National Space Day in August this year. Key features include an Indian-built life support system, docking and berthing systems, automated hatch, and viewports for research and recreation. During his recent mission to the International Space Station on SpaceX Dragon, Shukla carried out experiments on muscle regeneration, algal and seed growth, tardigrades, cyanobacteria, and human interaction with displays in microgravity.",
+        "date_published": "2025-09-25T15:10:00+05:30",
+        "comments": [
+            "First learn how to build roads that can survive one rain and how to design drains to remove rain waters without flooding cities..... show the engineering capabilities on earth first.",
+            "Rahul Gandhi to stay there permanently.",
+            "Great idea.....Holistic development of a country keeps it ahead of other nations",
+            "There will always be a bunch of gawaar baboons who will never think big and always be against a holistic development by giving lame reasons of some bad roads, nal may paani and toilets. The space power cannot be halted becuase a few people are waiting to flush their $hit !! &lt;br/&gt;Grow up guys. Be proud of ISRO and our space missions !!!",
+            "Besides country infrastructures and health spending , India needs international space to stay scienticially ahead , research development for the country progress .",
+            "Posts demanding road toilets water before space stations etc flooding comments from people short of burnol 🔥",
+            "Just make a tiny one like a toy",
+            "6 bhk mein sandas bhi lagana. PM Shauchalay",
+            "Ho jayaga bhai! Sab kuch honewala Hai!",
+            "Govt. should not spend money of space station etc.,. They should concentrate on Technology improvement, manufacturing, healthcare, housing including clean toilets, road, transport. Let tax payers money is put on development of the country instead of space explorations."
+        ],
+        "detected_language": "English",
+        "comments_sentiment": [
+            {
+                "comment": "First learn how to build roads that can survive one rain and how to design drains to remove rain waters without flooding cities..... show the engineering capabilities on earth first.",
+                "sentiment": "negative"
+            },
+            {
+                "comment": "Rahul Gandhi to stay there permanently.",
+                "sentiment": "neutral"
+            },
+            {
+                "comment": "Great idea.....Holistic development of a country keeps it ahead of other nations",
+                "sentiment": "positive"
+            },
+            {
+                "comment": "There will always be a bunch of gawaar baboons who will never think big and always be against a holistic development by giving lame reasons of some bad roads, nal may paani and toilets. The space power cannot be halted becuase a few people are waiting to flush their $hit !! &lt;br/&gt;Grow up guys. Be proud of ISRO and our space missions !!!",
+                "sentiment": "mixed"
+            },
+            {
+                "comment": "Besides country infrastructures and health spending , India needs international space to stay scienticially ahead , research development for the country progress .",
+                "sentiment": "neutral"
+            },
+            {
+                "comment": "Posts demanding road toilets water before space stations etc flooding comments from people short of burnol 🔥",
+                "sentiment": "neutral"
+            },
+            {
+                "comment": "Just make a tiny one like a toy",
+                "sentiment": "negative"
+            },
+            {
+                "comment": "6 bhk mein sandas bhi lagana. PM Shauchalay",
+                "sentiment": "neutral"
+            },
+            {
+                "comment": "Ho jayaga bhai! Sab kuch honewala Hai!",
+                "sentiment": "neutral"
+            },
+            {
+                "comment": "Govt. should not spend money of space station etc.,. They should concentrate on Technology improvement, manufacturing, healthcare, housing including clean toilets, road, transport. Let tax payers money is put on development of the country instead of space explorations.",
+                "sentiment": "negative"
+            }
+        ],
+        "key_phrases": [
+            "NEW DELHI",
+            "group captain",
+            "Shubhanshu Shukla",
+            "first module",
+            "Astronaut",
+            "Thursday"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NEW DELHI",
+                "entity_type": "Location"
+            },
+            {
+                "entity_name": "Astronaut",
+                "entity_type": "PersonType"
+            },
+            {
+                "entity_name": "captain",
+                "entity_type": "PersonType"
+            },
+            {
+                "entity_name": "Shubhanshu",
+                "entity_type": "Person"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "New Delhi",
+                "entity_url": "https://en.wikipedia.org/wiki/New_Delhi"
+            },
+            {
+                "entity_name": "Astronaut",
+                "entity_url": "https://en.wikipedia.org/wiki/Astronaut"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/nasa-launches-imap-mission-to-understand-the-sun-solar-wind-and-interstellar-particles/articleshow/124113646.cms",
+        "article_headline": "NASA launches IMAP mission to understand the Sun, solar wind, and interstellar particles",
+        "article_body": "NASA has launched a pioneering mission to study the Suns magnetic influence on our solar system. The Interstellar Mapping and Acceleration Probe (IMAP) lifted off from Kennedy Space Center in Florida aboard SpaceXs Falcon 9 rocket on 24 September 2025. Designed to explore the heliosphere, the Suns protective magnetic bubble, IMAP will map charged particles, interstellar dust, and solar wind as they travel toward Earth. By examining these interactions, scientists aim to understand how the Sun shapes space weather, affects satellites and astronaut safety, and influences conditions that make life possible on Earth and potentially beyond.NASA explores the suns protective magnetic bubble and its impact on spaceThe heliosphere is a vast bubble of charged particles and magnetic fields generated by the Sun. It stretches far beyond the planets, acting as a protective shield against cosmic rays and interstellar particles. Despite its importance, many aspects of the heliosphere remain poorly understood. IMAP is designed to fill these gaps by mapping the structure and dynamics of this invisible solar barrier in unprecedented detail.Equipped with advanced sensors and detectors, IMAP will analyze particles streaming toward Earth from the edges of our solar system and beyond. These observations will help scientists better understand the Suns influence on the space environment, which can directly impact satellites, communication systems, and astronaut safety.Understanding solar wind and interstellar dustA key focus of the mission is solar wind, a continuous flow of charged particles emitted by the Sun. While the solar wind shapes the heliosphere and influences planetary atmospheres, it can also pose hazards to astronauts and spacecraft. IMAPs instruments will study how these particles accelerate and interact with interstellar space, providing valuable insights for future space missions.In addition to solar wind, IMAP will investigate interstellar dust, cosmic rays, magnetic fields, and ultraviolet light in space. By measuring these phenomena, researchers hope to understand how particles from beyond our solar system interact with the heliosphere. This knowledge may also shed light on the conditions that make life possible on Earth and potentially other planets.The spacecraft carries 10 state-of-the-art instruments developed by multiple organizations to capture a wide range of data. These instruments will allow scientists to map particle flows, detect charged and neutral atoms, and observe the heliospheres boundaries in high detail, contributing to decades of solar and space research.IMAP is expected to arrive at L1 in January 2026. From this vantage point, the spacecraft will have an uninterrupted view of the Sun and the interstellar boundary, allowing continuous observations of particle flows and magnetic interactions. This positioning is ideal for long-term studies of space weather, solar activity, and the heliospheres outer limits.Supporting space weather predictionsSome of IMAPs instruments will contribute to the IMAP Active Link for Real-Time (I-ALiRT) system, which is designed to deliver frequent, reliable information on solar activity. By improving space weather predictions, I-ALiRT can help protect satellites, power grids, and other critical infrastructure from solar storms and particle radiation.IMAPs launch also included two additional missions aimed at expanding our understanding of the Sun and near-Earth space. These include NASAs Carruthers Geocorona Observatory and NOAAs Space Weather Follow On-Lagrange 1 (SWFO-L1). Together, these missions will provide detailed observations of solar effects, enhancing our ability to predict space weather events and safeguard technological systems in orbit.The importance of IMAP in exploring the Sun-Earth connectionBy studying the heliosphere and the solar wind in detail, IMAP is expected to answer fundamental questions about the Sun-Earth connection. Understanding how charged particles move through space, how they interact with the heliosphere, and how solar activity influences Earths environment will help scientists prepare for future space exploration and improve safety for astronauts venturing beyond low Earth orbit.In addition, IMAPs observations of interstellar particles may provide clues about the origins of cosmic rays and the composition of matter beyond our solar system. This data could enhance our understanding of the broader galaxy and the physical processes that shape our cosmic neighborhood.Also Read: Why our eyes are blue, green, brown, or hazel: The science and genetics behind eye colour",
+        "date_published": "2025-09-25T16:00:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "Suns magnetic influence",
+            "pioneering mission",
+            "solar system",
+            "NASA",
+            "The"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NASA",
+                "entity_type": "Organization"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "NASA",
+                "entity_url": "https://en.wikipedia.org/wiki/NASA"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/mystery-beneath-the-baltic-sea-200-foot-structure-with-stair-like-features-discovered-underwater/articleshow/124113708.cms",
+        "article_headline": "Mystery beneath the Baltic Sea: 200-foot structure with stair-like features discovered underwater",
+        "article_body": "Deep in the cold waters of the Baltic Sea, a massive and mysterious structure has captured the attention of divers, researchers, and the public alike. Roughly 200 feet across, the formation features stair-like ridges leading toward a central depression, sparking theories ranging from natural geology to ancient civilizations. Initially discovered in 2011 by Swedish treasure hunters using sonar technology, the structure gained widespread attention after being featured on the Discovery Channel and in multiple international reports. Divers approaching the site reported electronic malfunctions, including camera and satellite phone failures, adding to the intrigue. While some scientists attribute the formation to glacial or volcanic activity, others suggest the possibility of artificial origins, keeping the mystery unresolved.How a 200-foot structure was discovered beneath the Baltic Sea The structure was first identified by the Swedish treasure-hunting team Ocean X during a sonar survey in the Gulf of Bothnia, the stretch of sea between Sweden and Finland. On initial scans, the anomaly appeared as a nearly perfect circular dome with stair-like features leading into a dark central area. A second nearby object was also detected, raising further questions about the region. Following the discovery, Ocean X shared sonar images with marine experts, leading to international media coverage and a feature on the Discovery Channel. Despite decades of underwater exploration in the area, nothing else quite like it has been recorded, making the site a unique point of interest for scientists and enthusiasts. When divers returned to the site to investigate the anomaly in person, they experienced unusual electrical disturbances. Cameras, diving lights, and even satellite phones stopped functioning when directly above the formation, resuming normal operation only after moving 200 meters away. These unexplained electronic malfunctions have fueled speculation about the anomalys composition and origin, leading some to propose theories ranging from a sunken UFO to a man-made structure from a lost civilization. Whether these disruptions are caused by natural electromagnetic properties of the rocks or something more unusual remains unknown.Scientific insights and debates Samples retrieved from the site primarily consisted of granite, gneiss, and sandstone, consistent with geological formations shaped by glacial activity during the last Ice Age. However, some experts, including a geologist at the University of Texas, have suggested the presence of metallic components that are difficult to explain naturally. Marine archaeologists generally favor the idea that the anomaly is a morainea pile of rocks and sediment left by a glacierthough its symmetry continues to puzzle researchers. The absence of peer-reviewed studies confirming artificial elements keeps the debate alive, and differing opinions among scientists highlight how little is definitively known about the anomaly.The lasting mystery Despite years of investigation and international attention, the Baltic Sea anomaly remains enigmatic. The combination of its unusual shape, stair-like features, and electronic interference has ensured ongoing public fascination and scientific curiosity. Peter Lindberg, one of the Ocean X divers, has expressed both skepticism and wonder, noting that the formation is unlike any typical wreck or geological feature he has seen. The anomaly continues to attract divers, researchers, and theorists, remaining one of the Baltic Seas most captivating mysteries with no definitive explanation in sight. Some researchers argue that only a full-scale excavation could settle the question, but such an operation would be costly and technically challenging. Until then, the mystery is likely to fuel both scientific studies and speculative theories for years to come.",
+        "date_published": "2025-09-25T15:33:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "cold waters",
+            "Baltic Sea",
+            "mysterious structure",
+            "massive",
+            "atten"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "Baltic Sea",
+                "entity_type": "Location"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "Baltic Sea",
+                "entity_url": "https://en.wikipedia.org/wiki/Baltic_Sea"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/nasa-isros-nisar-sends-first-radar-images-of-earths-surface-reveals-exceptional-details-of-land-forests-and-agriculture/articleshow/124147402.cms",
+        "article_headline": "NASA-ISRO's NISAR sends first radar images of Earth's surface; reveals exceptional details of land, forests and agriculture",
+        "article_body": "NASA and ISRO have released the first radar images captured by their joint Earth-observing satellite, NISAR (NASA-ISRO Synthetic Aperture Radar). Launched on July 30, 2025, the satellite carries advanced L-band and S-band radar systems, designed to provide unprecedented insight into Earths dynamic surface. The initial images, captured in August, reveal remarkable detail, from dense forests and wetlands to farmland patterns and urban areas, highlighting the potential for monitoring ecosystems, agriculture, and natural disasters. NISARs success represents a milestone in international collaboration, combining NASA and ISRO expertise to advance science, technology, and global understanding of Earths changing environment.NASA-ISRO dual-band radar delivers unmatched precisionThe NISAR satellite is the first to carry both L-band and S-band radars, combining complementary capabilities for high-resolution Earth observation. NASAs L-band system can penetrate dense forest canopies, measure soil moisture, and detect minute land movements, including ice shifts, landslides, and tectonic activity. ISROs S-band radar is highly sensitive to small vegetation, making it ideal for tracking crops, grasslands, and subtle ecological changes. Together, the dual-band approach allows NISAR to capture both natural and human-altered landscapes with unparalleled clarity. It provides crucial data for environmental research, agricultural monitoring, and disaster preparedness worldwide.On August 21, NISARs L-band radar captured Maines Mount Desert Island, highlighting forests, water bodies, urban infrastructure, and narrow waterways with exceptional clarity. Magenta areas indicated built environments, while green represented vegetation. Two days later, northeastern North Dakota was imaged, revealing forests, wetlands, and agricultural fields, including circular center-pivot irrigation plots. The images clearly differentiate between cropland, pastures, natural vegetation, and human settlements. This demonstrates how NISARs radar capabilities can monitor land use, seasonal changes, and ecological health with unprecedented precision.Advancing scientific research and disaster responseThe high-resolution radar data from NISAR enables detailed analysis of Earths ecosystems, agricultural productivity, and environmental changes over time. Scientists can now track deforestation, wetland loss, crop growth, and land degradation more accurately than ever before. Additionally, NISAR provides early warning capabilities for natural disasters such as earthquakes, landslides, and flooding. This allows governments and emergency responders to take timely action to protect lives and infrastructure.The NISAR mission represents years of joint technical development and programmatic coordination between NASA and ISRO, spanning spacecraft design, radar engineering, and global ground-station support. Key NASA contributions include the L-band radar, reflector, and communication subsystems, while ISRO provided the S-band radar and spacecraft bus. With science operations scheduled to begin in November 2025, NISAR is expected to deliver continuous, high-quality radar imagery, revolutionizing our understanding of Earths land, ecosystems, and agricultural systems.",
+        "date_published": "2025-09-26T11:20:00+05:30",
+        "comments": [
+            "Excellent, it will be of immense help in future.",
+            "India has the largest pool of young talents; the USA, by blocking their entry into his country, will in fact make India more powerful in all the areas of science and technology. Sooner than later, it will see how the ISRO comes in a close second behind NASA.&lt;br/&gt;&lt;br/&gt;Talent is like a riverâ  it will always find new lands to irrigate. If America and Britain close their doors for Indian talents, then along with developing its homeland, it will be welcomed in Russia, Canada, Brazil, and other giants that build even bigger corporations than Google or Microsoft. Language is no barrier anymore. Soon, the same dazzled West that gawked at Chinaâ  s mega-show will be stunned againâ  this time by many more nations overtaking them.",
+            "Tariffs and visa fees are pocket change â   demonetize and digitize, and you snuff out the cartelsâ   cash. Thatâ  s how you build megastructures, not memes."
+        ],
+        "detected_language": "English",
+        "comments_sentiment": [
+            {
+                "comment": "Excellent, it will be of immense help in future.",
+                "sentiment": "positive"
+            },
+            {
+                "comment": "India has the largest pool of young talents; the USA, by blocking their entry into his country, will in fact make India more powerful in all the areas of science and technology. Sooner than later, it will see how the ISRO comes in a close second behind NASA.&lt;br/&gt;&lt;br/&gt;Talent is like a riverâ  it will always find new lands to irrigate. If America and Britain close their doors for Indian talents, then along with developing its homeland, it will be welcomed in Russia, Canada, Brazil, and other giants that build even bigger corporations than Google or Microsoft. Language is no barrier anymore. Soon, the same dazzled West that gawked at Chinaâ  s mega-show will be stunned againâ  this time by many more nations overtaking them.",
+                "sentiment": "mixed"
+            },
+            {
+                "comment": "Tariffs and visa fees are pocket change â   demonetize and digitize, and you snuff out the cartelsâ   cash. Thatâ  s how you build megastructures, not memes.",
+                "sentiment": "neutral"
+            }
+        ],
+        "key_phrases": [
+            "first radar images",
+            "joint Earth-observing satellite",
+            "NASA",
+            "ISRO"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "NASA",
+                "entity_type": "Organization"
+            },
+            {
+                "entity_name": "ISRO",
+                "entity_type": "Organization"
+            },
+            {
+                "entity_name": "first",
+                "entity_type": "Quantity"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "NASA",
+                "entity_url": "https://en.wikipedia.org/wiki/NASA"
+            },
+            {
+                "entity_name": "Indian Space Research Organisation",
+                "entity_url": "https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/understanding-why-rose-petals-curl-how-stress-geometry-and-biology-shape-their-elegant-forms/articleshow/124148809.cms",
+        "article_headline": "Understanding why rose petals curl: How stress, geometry, and biology shape their elegant forms",
+        "article_body": "Rose petals, celebrated for their vivid colours and graceful curves, are more than just visually striking. Their unique shapes arise from a complex interaction of biology, physics, and geometry. As petals grow, differential growth rates and mechanical stresses produce the distinctive curled edges and pointed tips. This process, known as geometric frustration, occurs when the petal cannot expand evenly without generating stress, resulting in its iconic shape. Studying these natural mechanisms not only deepens our understanding of floral development but also inspires innovations in material science and engineering, including self-shaping, flexible, and adaptive structures that mimic natures design principles.Geometric frustration: How stress shapes rose petalsThe concept of geometric frustration explains why petals cannot grow evenly without stress. Imagine trying to flatten a crumpled piece of paper; it resists lying perfectly flat. Similarly, stress in rose petals produces curled edges and pointed tips, resulting in the flowers distinctive form. This process illustrates how mathematical and physical principles operate in living organisms to create complex, precise natural forms. Recent research published in Science has identified that rose petals violate the Mainardi-Codazzi-Peterson (MCP) condition, leading to concentrated stress at specific points, particularly the cusps. This incompatibility forges the sharp edges on the tips of the petals. The study involved cutting strips from rose petals, creating faux plastic petals to mimic the growth process, and running computer models. Their findings revealed that the immense stress fixed on petal cusps affects how the surrounding tissue grows, causing smooth curves to morph into polygonal shapes with sharp, multiplying cusps as the petal matures.Why rose petals have unique shapesUnlike many other flowers, rose petals often display pointed tips and curled edges. This distinctive appearance is not just genetic; it is heavily influenced by mechanical stresses during growth. As the petal develops, different parts of its surface expand at different rates, creating stress accumulation at certain points. This leads to the formation of sharp cusps at the edges, giving petals their signature curls and tips. Without this mechanical influence, rose petals would lack their intricate and elegant structure.These unique shapes also serve functional purposes for the flower. The curled edges and pointed tips can help protect the inner reproductive organs, guide pollinators efficiently, and even influence how water or dew interacts with the petal surface, demonstrating that the petals design combines both beauty and biological function.The Mainardi-Codazzi-Peterson (MCP) conditionAnother key concept in petal shaping is the MCP condition, a mathematical framework that describes how surfaces deform under stress. Surfaces following this condition grow smoothly without stress, but rose petals violate it, causing stress to accumulate at specific points, particularly the cusps. This accumulated stress forces petals to curl and twist, forming their iconic shapes as they mature. In simple terms, rose petal curves and pointed tips are the natural result of growth stress, not just genetics.How scientists study petal shapesResearchers use a variety of techniques to understand petal formation. High-resolution imaging helps observe fine details of curves and cusps, while mathematical modelling calculates stress points and growth patterns. Artificial material experiments replicate petal shapes and test mechanical principles. Together, these approaches reveal how physics and biology interact to create complex natural structures. Genetic studies, computer simulations, and microscopic analyses further uncover cellular mechanisms and environmental influences that guide precise petal shape development over time.Implications for material scienceThe study of rose petals has practical applications in engineering and material design. Principles of differential growth and geometric frustration can inspire self-shaping materials. Engineers can design flexible structures that change shape in response to environmental stimuli, with potential applications in soft robotics, flexible electronics, and adaptive materials. By learning from rose petals, scientists can develop innovative, efficient, and elegant technologies that mimic natures design principles.Facts about rose petalsRose petals are full of interesting features:No two petals are exactly the same due to growth stress.Their curled edges and pointed tips result from mechanical forces, not just DNA.Similar principles are found in leaves, seashells, and other natural structures, highlighting the universality of geometric frustration in nature.Also read | NASA shares 8 jaw-dropping Milky Way images revealing the galaxys hidden wonders",
+        "date_published": "2025-09-26T12:00:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "Rose petals",
+            "vivid colours",
+            "graceful curves"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "Rose petals",
+                "entity_type": "Product"
+            }
+        ],
+        "linked_entities": []
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/million-year-old-skull-suggests-humans-emerged-earlier-than-thought-challenging-the-africa-centric-theory-of-evolution/articleshow/124149376.cms",
+        "article_headline": "Million-year-old skull suggests humans emerged earlier than thought, challenging the Africa-centric theory of evolution",
+        "article_body": "A recently analysed skull discovered in Hubei Province, China, has prompted scientists to rethink the timeline of human evolution. Known as Yunxian 2, the fossil was previously classified as Homo erectus, but new digital reconstructions suggest it belongs to Homo longi, or Dragon Man, a lineage closely related to both Denisovans and Neanderthals. Dated to around one million years ago, the skull indicates that large-brained humans may have emerged far earlier than previously believed, and that human lineages diverged and diversified rapidly across Eurasia. These findings challenge the long-held Africa-centric model of human evolution, suggesting that crucial evolutionary developments occurred outside Africa as well.The million-year-old skull discoveryThe Yunxian 2 skull was found decades ago in Hubei Province but remained largely understudied due to its damaged condition. Using advanced CT scanning and digital modeling, researchers were able to reconstruct its features, revealing anatomical traits distinct from traditional Homo erectus. These characteristics link the skull to the Dragon Man lineage, closely related to Denisovans and Neanderthals. Its size, brain capacity, and unique morphology suggest early large-brained humans were already diversifying across Asia, far earlier than previously recognized.Implications for human evolutionAnalysis of the skull suggests that Homo sapiens may have begun evolving as early as one million years ago, potentially 500,000 years earlier than conventional estimates. This challenges the previously accepted timeline of 300,000200,000 years for the emergence of modern humans. Furthermore, the evidence implies that multiple human lineages, including Homo longi, Denisovans, Neanderthals, and early Homo sapiens, coexisted and possibly interbred across Eurasia. The discovery emphasizes that significant evolutionary steps were not confined to Africa, highlighting Asias important role in human history.Scholarly debate and future researchExperts like Prof. Chris Stringer of Londons Natural History Museum note that the findings significantly reshape our understanding of human ancestry but urge caution. Additional fossil evidence and independent verification are required to confirm these conclusions. Nonetheless, the research showcases how modern digital reconstruction tools can refine classifications, correct previous misidentifications, and illuminate the complex patterns of early human evolution.The discovery of Yunxian 2 underscores the possibility of an earlier and more geographically diverse emergence of modern humans than previously thought. By demonstrating that large-brained humans were present in Asia up to a million years ago, it challenges the linear, Africa-focused narrative and opens new avenues for exploring our species evolution. Scientists are now actively searching for additional fossils across Asia to uncover more pieces of this complex and intertwined human story.",
+        "date_published": "2025-09-26T12:18:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "Hubei Province",
+            "skull",
+            "China",
+            "scientists"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "recently",
+                "entity_type": "DateTime"
+            },
+            {
+                "entity_name": "Hubei Prov",
+                "entity_type": "Location"
+            }
+        ],
+        "linked_entities": [
+            {
+                "entity_name": "Hubei",
+                "entity_url": "https://en.wikipedia.org/wiki/Hubei"
+            }
+        ]
+    },
+    {
+        "article_link": "https://timesofindia.indiatimes.com/science/study-reveals-offshore-wind-farm-cables-affect-female-crabs-and-marine-ecosystems/articleshow/124154932.cms",
+        "article_headline": "Study reveals offshore wind farm cables affect female crabs and marine ecosystems",
+        "article_body": "Offshore wind farms are widely recognised as a clean energy solution, helping countries meet climate targets and reduce dependence on fossil fuels. However, recent research reveals that the subsea cables connecting turbines to the shore may have unintended ecological effects. A study published in Environmental Science and Technology Letters discovered that female shore crabs respond strongly to the electromagnetic fields (EMFs) produced by these cables. This altered behaviour, including lingering near cables and reduced movement, could disrupt crab migrations, breeding, and egg-laying patterns, potentially affecting food chains and the broader health of coastal marine ecosystems.The unseen effects of offshore wind farm cables on sea creaturesOffshore wind farms are increasingly seen as a crucial solution for generating clean energy and reducing dependence on fossil fuels. While these projects are important for combating climate change, the underwater infrastructure that supports them, especially the subsea cables connecting turbines to the shore. can have significant, yet often overlooked, impacts on marine life. These cables carry electricity across the seabed and emit electromagnetic fields (EMFs), which many marine organisms, including crabs, fish, and turtles, can detect. These fields can influence navigation, foraging behaviour, and migration patterns, which are critical for the survival and reproduction of many species.How shore crab migrations sustain coastal food chainsShore crabs are not only common but play a key role in coastal ecosystems. Each year, millions migrate along coastlines to reproduce, a journey essential for their life cycle. These migrations provide a critical source of food for various predators, including fish, shorebirds, and other marine animals. Any disruption to their movement can have cascading effects on the food chain, potentially impacting both the populations of crabs and the animals that depend on them. Crabs also contribute to the health of the seafloor environment by helping to aerate sediment and recycle nutrients, further highlighting their ecological importance.How cables affect crabs migrationResearch indicates that female crabs react strongly to EMFs from subsea cables, while males show little or no consistent response. Female crabs tend to linger near the cables and move more slowly, which could interfere with their natural migration and breeding routines. This altered behaviour may lead to changes in where females lay eggs, potentially reducing survival rates and decreasing population sizes. Over time, such disruptions could affect the broader ecosystem, since crabs form a critical link in the coastal food web.Although subsea cables occupy only a tiny fraction of the seafloor, their placement is crucial. Even a single cable crossing a crab migration route can act as an invisible barrier, altering movement patterns and potentially influencing breeding success. Small disruptions in key areas may accumulate across multiple sites, leading to larger ecological consequences over time.Broader impacts of cables on marine lifeThe influence of EMFs extends beyond crabs. Many marine species rely on magnetic fields for navigation, including sea turtles, salmon, and certain fish species. Disturbances caused by subsea cables could affect migration routes, feeding behaviour, and reproduction in these animals as well. If multiple species experience disruption, it may create widespread ecological effects, altering predator-prey relationships and ecosystem dynamics. Understanding and addressing these impacts is vital as the offshore wind industry continues to expand worldwide.Smarter planning for offshore energyTo ensure offshore wind energy development does not harm marine ecosystems, careful planning and innovative solutions are essential. Some strategies include:Routing cables away from critical migration paths to avoid interfering with key species.Using shielding or insulation to reduce EMF exposure and its potential effects on sensitive animals.Continuous monitoring of wildlife near cable routes to detect behavioural changes and adjust management practices accordingly.Collaboration between engineers and marine biologists to integrate ecological knowledge into project design, ensuring that energy development and marine conservation go hand in hand.By considering species behaviour, sex-specific responses, and ecosystem connectivity, offshore wind projects can be designed to minimise environmental impacts. This approach helps balance the urgent need for renewable energy with the preservation of biodiversity and ecosystem health.Also read | Artemis II 2026: NASA prepares first crewed mission to circle around the moon in 50 years, scheduled for February",
+        "date_published": "2025-09-26T15:23:00+05:30",
+        "comments": [],
+        "detected_language": "English",
+        "comments_sentiment": [],
+        "key_phrases": [
+            "Offshore wind farms",
+            "clean energy solution",
+            "countries",
+            "climate"
+        ],
+        "named_entiry_recognition": [
+            {
+                "entity_name": "farms",
+                "entity_type": "Organization"
+            }
+        ],
+        "linked_entities": []
+    }
+]

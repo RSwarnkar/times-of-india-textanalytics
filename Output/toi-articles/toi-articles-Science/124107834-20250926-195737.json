@@ -1,0 +1,41 @@
+{
+    "cms_id": "124107834",
+    "article_link": "https://timesofindia.indiatimes.com/science/sun-is-waking-up-nasa-warns-solar-activity-could-disrupt-gps-power-grids-and-satellites/articleshow/124107834.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "NASA has issued a warning that the Sun is âwaking up,â with solar activity increasing steadily after decades of decline. The agencyâs latest research, led by Jamie Jasinski at NASAâs Jet Propulsion Laboratory and published via the OMNIWeb Plus platform, shows that solar wind strength, magnetic field intensity, and sunspot numbers have all been rising since the solar minimum of 2008. This unexpected reversal could have significant effects on Earth, including disruptions to GPS systems, radio communications, power grids, and satellites. NASA emphasizes that monitoring these changes is critical to protect both technological infrastructure and astronauts in space.NASA explains solar cyclesThe Sun follows an approximately 11-year solar cycle, alternating between periods of high and low activity. During solar maximum, sunspotsâcooler, darker patches on the Sun caused by magnetic activityâare abundant, often triggering solar flares and coronal mass ejections. Solar minimums, in contrast, see fewer sunspots and calmer activity. Long-term trends in solar behavior, however, can stretch over decades and are more difficult to predict, making careful monitoring essential for anticipating potential impacts on Earth.Increased solar activity produces space weather events that can disrupt daily life. Solar flares and coronal mass ejections can interfere with GPS navigation, radio signals, and power grids. Satellites are at risk of damage or operational interruptions, and astronauts face higher radiation exposure. Understanding and predicting solar behavior helps operators and engineers take protective measures, such as adjusting satellite orbits or hardening electrical grids against geomagnetic storms.NASAâs ongoing research on Solar activitiesNASAâs team, including data from ACE, Wind, and other spacecraft, has tracked solar wind and magnetic field changes since the 1990s. The study published on the OMNIWeb Plus platform highlights how solar activity began climbing steadily after the 2008 minimum, contradicting earlier expectations of a prolonged quiet phase. Upcoming missions like IMAP, the Carruthers Geocorona Observatory, and NOAAâs SWFO-L1 will further study solar activity and space weather, helping to safeguard technology and astronauts alike.As the Sun ramps up, understanding long-term solar trends remains a challenge. Historic periods of low activity, such as the Maunder Minimum (1645â1715), show that extended calm phases can occur, but predicting them remains difficult. NASAâs research underscores the importance of vigilance, enabling governments, companies, and space agencies to anticipate disruptions and implement mitigation strategies for technology-dependent systems on Earth. Ultimately, these efforts remind us that our planet is deeply connected to the Sunâs rhythms. Preparing for solar activity is not just about protecting technology, but also about safeguarding the future of human exploration beyond Earth.",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/sun-is-waking-up-nasa-warns-solar-activity-could-disrupt-gps-power-grids-and-satellites/articleshow/124107834.cms",
+        "inLanguage": "en",
+        "headline": "âSun is waking upâ: NASA warns solar activity could disrupt GPS, power grids, and satellites",
+        "keywords": "NASA,solar activity,space weather,GPS disruption,Jet Propulsion Laboratory,solar cycles,solar storm",
+        "url": "https://timesofindia.indiatimes.com/science/sun-is-waking-up-nasa-warns-solar-activity-could-disrupt-gps-power-grids-and-satellites/articleshow/124107834.cms",
+        "datePublished": "2025-09-25T12:44:00+05:30",
+        "dateModified": "2025-09-26T10:33:00+05:30",
+        "description": "Science News: NASA warns that the Sun is awakening, showing increased solar activity since 2008. Rising solar wind strength, magnetic field intensity, and sunspot n",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124107844,width-1280,height-720,imgsize-95032,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124107844/124107844.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": []
+}

@@ -1,0 +1,43 @@
+{
+    "cms_id": "124108001",
+    "article_link": "https://timesofindia.indiatimes.com/world/us/nightmare-bacteria-deadly-drug-resistant-pathogen-spreading-fast-in-us-all-you-need-to-know/articleshow/124108001.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "Infections caused by drug-resistant ânightmare bacteriaâ are rising rapidly in the United States, with cases increasing nearly 70 percent between 2019 and 2023, according to scientists at the US Centers for Disease Control and Prevention (CDC). The findings, published Monday in the Annals of Internal Medicine, warn of the growing threat from bacteria carrying the so-called NDM gene, which are resistant to many frontline treatments.What the CDC report foundResearchers analysed data from 29 US states that test and report cases of carbapenem-resistant bacteria. They counted 4,341 carbapenem-resistant infections in 2023, including 1,831 cases linked to bacteria carrying the NDM (New Delhi metallo-Î²-lactamase) gene.The rate of carbapenem-resistant infections rose from just under 2 per 100,000 people in 2019 to more than 3 per 100,000 in 2023, marking a 69 percent increase. In comparison, the rate of NDM-related cases surged more than fivefold, from about 0.25 to 1.35 per 100,000 people.âThe rise of NDMs in the U.S. is a grave danger and very worrisome,â David Weiss, an infectious diseases researcher at Emory University, told the Associated Press in an email.CDC scientists noted that actual numbers are likely higher because many hospitals lack the capacity to test for genetic resistance, and several large states â including California, Florida, New York, and Texas â did not submit complete data.What are ânightmare bacteriaâ?The CDC uses the term ânightmare bacteriaâ to describe pathogens that resist a wide range of antibiotics, including carbapenems, often considered drugs of last resort for severe infections.Bacteria carrying the NDM gene are particularly dangerous because they produce an enzyme that breaks down carbapenems, rendering them ineffective. Only two intravenous antibiotics are currently effective against these strains, both of which are costly and difficult to administer.Originally, NDM-carrying bacteria were identified mainly in patients who had received medical care overseas, making them relatively rare in the US. But the recent surge suggests wider community spread and a growing domestic threat.How bacteria become drug-resistantDrug resistance develops when microbes adapt to survive medicines designed to kill them. According to CDC researchers, misuse and overuse of antibiotics is a key driver.Incomplete prescriptions, unnecessary use of antibiotics for non-bacterial illnesses, and widespread availability of drugs without proper oversight all contribute to the problem. Resistant bacteria not only survive but can also share their resistant genes with other microbes, making infections harder to treat.Dr Maroya Walters, one of the CDC reportâs authors, explained that community spread could make even routine infections more serious. âThat may play out in doctorsâ offices across the country, as infections long considered routine â like urinary tract infections â could become harder to treat,â Walters said.The pandemic connectionSome experts suggest the COVID-19 pandemic may have accelerated drug resistance.âWe know that there was a huge surge in antibiotic use during the pandemic, so this likely is reflected in increasing drug resistance,â Dr Jason Burnham, a researcher at Washington University, told the Associated Press.Burnham added that the CDCâs figures underestimate the true scale of the problem because testing remains inconsistent across the country.Early signs of infectionCarbapenem-resistant Enterobacteriaceae (CRE) infections are difficult to distinguish from common bacterial illnesses, which can delay diagnosis and treatment. Some of the early signs include:Urinary tract infections (UTIs): frequent urination, pain or burning sensation, cloudy urineBloodstream infections: high fever, rapid heartbeat, very low blood pressurePneumonia (lung infection): persistent cough, chest pain, shortness of breathBecause these symptoms overlap with less dangerous infections, specialised testing is required to confirm resistance.Global spread of NDM-carrying bacteriaThe problem of antibiotic resistance is not confined to the US. Experts stress that because bacteria spread easily between people, animals, and food chains, the threat is global.South Asia: NDM-producing bacteria are relatively common, particularly in India and Pakistan. Contributing factors include overcrowded hospitals, high antibiotic use, and weak regulation of generic drugs.Europe: Southern European nations such as Greece, Italy, and Turkiye report higher rates of resistant bacteria than northern Europe, where infection control measures are stricter.Africa: Data remains limited, but studies suggest resistant bacteria are present in both hospitals and communities. Weak sanitation and unregulated antibiotic use heighten the risk.Latin America: Countries such as Brazil and Argentina have reported outbreaks of carbapenem-resistant infections, especially in 2021 and 2022.Researchers note that countries with weaker health systems or looser restrictions on antibiotic sales are more vulnerable to rapid spread.Why this mattersDrug-resistant infections are a major public health concern because they reduce the effectiveness of antibiotics that underpin modern medicine. Surgeries, cancer treatments, and routine procedures rely on antibiotics to prevent or treat infections.The CDC has repeatedly warned that without effective action, resistant bacteria could roll back decades of medical progress. The rise of NDM-related infections in the US adds urgency to the challenge.The CDC memo concludes that stronger surveillance, better infection control, and careful stewardship of existing antibiotics are essential. Expanded testing across states, international cooperation, and the development of new drugs are also needed to prevent wider outbreaks.For now, the scale of the threat remains uncertain. As Burnham noted, âthe absolute number of US infections is definitely underestimated.â",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/world/us/nightmare-bacteria-deadly-drug-resistant-pathogen-spreading-fast-in-us-all-you-need-to-know/articleshow/124108001.cms",
+        "inLanguage": "en",
+        "headline": "Nightmare bacteria: Deadly drug-resistant pathogen spreading fast in US â All you need to know",
+        "keywords": "drug-resistant bacteria,CDC report,nightmare bacteria,NDM gene,COVID-19 pandemic impact,carbapenem-resistant infections,global spread of NDM bacteria,antibiotic resistance",
+        "url": "https://timesofindia.indiatimes.com/world/us/nightmare-bacteria-deadly-drug-resistant-pathogen-spreading-fast-in-us-all-you-need-to-know/articleshow/124108001.cms",
+        "datePublished": "2025-09-25T13:00:00+05:30",
+        "dateModified": "2025-09-25T13:00:00+05:30",
+        "description": "US News: A concerning report from the CDC reveals a significant surge in drug-resistant \\\"nightmare bacteria\\\" infections across the United States, escalating ne",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124108287,width-1280,height-720,imgsize-914649,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI World Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-toi-world-desk-479263449.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124108287/124108287.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": [
+        "The ONLY way to destroy these smart bacterias that are growing resistant to antibiotics - teach them RELIGION and POLITICS. They will fight amongst themselves and destroy themselves."
+    ]
+}

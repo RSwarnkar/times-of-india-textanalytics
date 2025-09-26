@@ -1,0 +1,41 @@
+{
+    "cms_id": "124065406",
+    "article_link": "https://timesofindia.indiatimes.com/science/nasa-parker-solar-probe-sets-speed-record-at-687000-kilometers-per-hour-during-25th-flyby-new-insights/articleshow/124065406.cms",
+    "article_details": {
+        "@context": "https://schema.org",
+        "articleBody": "NASAâs Parker Solar Probe has made headlines again by successfully completing an autonomous close approach to the Sun and confirming that all its systems are operating normally. On September 18, 2025, the spacecraft transmitted a status signal to flight controllers at the Johns Hopkins Applied Physics Laboratory (APL) in Laurel, Maryland, where it was designed, built, and continues to be managed. This achievement marks another milestone in Parkerâs ongoing mission to explore the Sunâs atmosphere, or corona, and study solar activity in unprecedented detail. By flying closer to the Sun than any previous spacecraft, Parker Solar Probe provides critical data on solar wind, flares, and space weather, advancing humanityâs understanding of phenomena that impact both space and Earth.NASAâs Parker Solar Probe hits record-breaking speed reaching 687,000 km/hDuring its recent solar encounter from September 10 to 20, Parker Solar Probe matched its record-setting speed of 687,000 kilometers per hour (430,000 miles per hour). This extreme velocity, achieved during close approaches to the Sun, had previously been reached on December 24, 2024; March 22, 2025; and June 19, 2025. The spacecraft remains in a highly elliptical orbit around the Sun, continuously conducting observations that scientists hope will shed new light on solar phenomena and space weather. NASA is currently reviewing the missionâs next milestones, extending beyond 2026.Parker Solar Probeâs fourth flyby reveals key solar insightParker Solar Probeâs latest flyby marked its fourth close approach to the Sunâs outer atmosphere, or corona. During this encounter, the spacecraftâs four scientific instrument packages collected detailed data on solar wind, solar flares, and coronal mass ejections. This period is particularly significant as the Sun enters a more active phase of its 11-year solar cycle.The observations gathered are vital for understanding the fundamental physics driving space weather events. These phenomena can affect astronauts, satellites, air travel, and power grids on Earth. By studying solar activity directly from within the corona, Parker provides critical insights that enable better prediction of solar storms and improve safety for future deep-space missions to the Moon and Mars.Parker Solar Probe: Mission overviewLaunched in 2018, Parker Solar Probe is the first spacecraft designed to fly directly through the Sunâs corona. It flies closer to the Sun than any previous spacecraft, gradually reaching velocities approaching 700,000 kilometers per hour. This unmatched proximity allows scientists to study solar activity in unprecedented detail.The mission is part of NASAâs Living With a Star (LWS) program, which focuses on understanding aspects of the Sun-Earth system that impact life and society. Managed by NASAâs Goddard Space Flight Center in Greenbelt, Maryland, Parker is operated by Johns Hopkins APL, where it was designed and built.Understanding space weather with Parker Solar ProbeNASA emphasises that Parkerâs measurements of the solar wind and solar events are critical for understanding high-energy space weather. These studies directly contribute to safeguarding astronauts, protecting satellites, and mitigating risks to infrastructure on Earth. By unraveling the Sunâs complex behaviour, Parker Solar Probe is paving the way for safer and more predictable human and robotic space exploration.Parker will begin returning detailed science data from this September 2025 encounter starting September 23, providing researchers with new insights into solar dynamics and their influence on Earth.Also Read | James Webb Space Telescope reveals dark beads and star patterns in Saturnâs atmosphere",
+        "@type": "NewsArticle",
+        "mainEntityOfPage": "https://timesofindia.indiatimes.com/science/nasa-parker-solar-probe-sets-speed-record-at-687000-kilometers-per-hour-during-25th-flyby-new-insights/articleshow/124065406.cms",
+        "inLanguage": "en",
+        "headline": "NASA Parker Solar Probe sets speed record at 687,000 kilometers per hour during 25th flyby; new insights",
+        "keywords": "",
+        "url": "https://timesofindia.indiatimes.com/science/nasa-parker-solar-probe-sets-speed-record-at-687000-kilometers-per-hour-during-25th-flyby-new-insights/articleshow/124065406.cms",
+        "datePublished": "2025-09-23T14:00:00+05:30",
+        "dateModified": "2025-09-23T15:53:00+05:30",
+        "description": "NASA's Parker Solar Probe successfully completed a close approach to the Sun, confirming normal system operations. Reaching speeds of 687,000 km/h, it",
+        "thumbnailUrl": "https://static.toiimg.com/thumb/msid-124065463,width-1280,height-720,imgsize-73390,resizemode-6,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "author": {
+            "@type": "Person",
+            "name": "TOI Science Desk",
+            "url": "https://timesofindia.indiatimes.com/toireporter/author-TOI-Science-Desk-479263438.cms"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "The Times Of India",
+            "url": "https://timesofindia.indiatimes.com/",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "https://static.toiimg.com/photo/msid-92877370/92877370.jpg",
+                "width": 600,
+                "height": 60
+            }
+        },
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-124065463/124065463.jpg",
+            "width": 1280,
+            "height": 720
+        }
+    },
+    "comments": []
+}
